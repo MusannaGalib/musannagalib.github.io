@@ -71,7 +71,7 @@ x_username: galib_musanna
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username:  musanna-galib
 telegram_username: # your Telegram user name
-scholar_userid: BwQZTTkAAAAJ
+scholar_userid: https://scholar.google.com/citations?user=BwQZTTkAAAAJ&hl=en&oi=ao&inst=17001591832933267808
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0002-1735-7546
