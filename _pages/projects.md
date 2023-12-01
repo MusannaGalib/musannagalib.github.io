@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: teaching_info
+permalink: /teaching_info/
+description: Materials and information related to courses/researches
 nav: true
 nav_order: 2
 display_categories: [work, fun]
