@@ -46,17 +46,6 @@
         - Worked as a staff member of The 13th and 12th International Conference on Mechanical Engineering (ICME 2019, ICME 2017).
 
 
-- title: Extra-curricular activities
-  type: time_table
-  contents:
-    - title: Vice President (Academic), Mechanical Engineering Graduate Association, UBC.
-      year: 2022 
-      description: Arranging academic events for mechanical engineering graduate students.
-    - title: <a href="https://deabd.org/">Award Leader, The Duke of Edinburgh’s Award Foundation Bangladesh.</a>
-      year: 2017-2021
-      description: Arranging academic events for mechanical engineering graduate students.
-    - title: Gold Awardee of ‘The Duke of Edinburgh’s Award
-      year: 2017
 
 - title: Honors and Awards
   type: time_table
@@ -64,7 +53,6 @@
     - year: 2023
       items: 
         - Collaborative Research Mobility Award (UBC CRMA) in UBC 
-        - Matteucci Medal
     - year: 2021
       items: 
         - Faculty of Applied Science Graduate Award in UBC
@@ -82,6 +70,7 @@
     - year: 2009
       items: 
         - Board Scholarship in SSC 2009 (37th position in Bangladesh).  
+        
 - title: Technical Skills
   type: nested_list
   contents:
@@ -99,7 +88,19 @@
       items:
         - Battery Testing - Battery cell assembly, Cyclic testing, In-situ optical microscopy.
         - Clean-room Testing - DEKTAK profilometer.
-
+        
+- title: Extra-curricular activities
+  type: time_table
+  contents:
+    - title: Vice President (Academic), Mechanical Engineering Graduate Association, UBC.
+      year: 2022 
+      description: Arranging academic events for mechanical engineering graduate students.
+    - title: <a href="https://deabd.org/">Award Leader, The Duke of Edinburgh’s Award Foundation Bangladesh.</a>
+      year: 2017-2021
+      description: Arranging academic events for mechanical engineering graduate students.
+    - title: Gold Awardee of ‘The Duke of Edinburgh’s Award
+      year: 2017
+      
 - title: Other Interests
   type: list
   contents:
