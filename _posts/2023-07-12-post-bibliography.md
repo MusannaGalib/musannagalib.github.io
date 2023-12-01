@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Fire Safety Research
-date: 2017-02-01 09:56:00-0400
+date: 2023-11-10 09:56:00-0400
 description: Fire Safety Research
 tags: formatting bib
 categories: sample-posts
-giscus_comments: true
+giscus_comments: false
 related_posts: false
 related_publications: 10.1063/1.4984703
 ---
