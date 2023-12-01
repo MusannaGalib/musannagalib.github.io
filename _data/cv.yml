@@ -8,7 +8,30 @@
     - name: Languages
       value: English, Bengali
 
-
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. Candidate, Mechanical Engineering
+      institution: University of British Columbia, Vancouver, Canada
+      year: Sep 2020 - Present 
+      description:
+        -  title: Dissertation title - Dendrite Inhibition Strategy using Hetero-epitaxy in Thin Film Deposition Mechanics.
+        contents:
+            - CGPA - 87%
+    - title: M.Sc. in Mechanical Engineering
+      institution: Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
+      year: Apr 2017 – May 2019
+      description:
+        - title: Dissertation title - Study of electro-mechanical properties of manganese-based nanocomposites for supercapacitors
+        contents:
+            - CGPA - 3.92/4.00
+    - title: B.Sc. in Mechanical Engineering
+      institution: Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
+      year: Apr 2012 - Feb 2017
+      description:
+         - title: Dissertation title - Computer Modeling of Fire Smoke Movement in Multizone Structure Using Two Open Source Platforms
+         contents:
+            - CGPA - 3.92/4.00
 
 
 - title: Experience
@@ -16,12 +39,12 @@
   contents:
     - title: Graduate Research Assistant
       institution: University of British Columbia, Vancouver, Canada
-      year: 2021 -2024
+      year: 2021 - 2024
       description:
         - Research on rechargeable batteries and thin films
     - title: Lecturer
       institution: Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
-      year: 2017-2021
+      year: 2017- 2021
       description:
         - Teaching multiple undergrad theory and laboratory courses.
         - Worked as a staff member of The 13th and 12th International Conference on Mechanical Engineering (ICME 2019, ICME 2017).
