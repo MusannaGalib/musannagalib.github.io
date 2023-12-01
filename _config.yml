@@ -167,7 +167,7 @@ collections:
     permalink: /news/:path/
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: /teaching/:path/
 
 announcements:
   enabled: true
