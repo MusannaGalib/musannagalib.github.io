@@ -17,7 +17,7 @@
       description:
         -  title: Dissertation title: Dendrite Inhibition Strategy using Hetero-epitaxy in Thin Film Deposition Mechanics.
           contents:
-            - CGPA: 87%
+            - CGPA - 87%
             - Sep 2020 - Present
     - title: M.Sc. in Mechanical Engineering
       institution: Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
@@ -25,7 +25,7 @@
       description:
         - title: Dissertation title: Study of electro-mechanical properties of manganese-based nanocomposites for supercapacitors
         contents:
-            - CGPA: 3.92/4.00
+            - CGPA - 3.92/4.00
             - Apr 2017 – May 2019
     - title: B.Sc. in Mechanical Engineering
       institution: Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
@@ -33,7 +33,7 @@
       description:
         - title: Computer Modeling of Fire Smoke Movement in Multizone Structure Using Two Open Source Platforms
         contents:
-            - CGPA: 3.92/4.00
+            - CGPA - 3.92/4.00
             - Apr 2012 - Feb 2017
 
 - title: Experience
@@ -93,18 +93,18 @@
   contents:
     - title: Simulation
       items: 
-        - Programming Languages: C, HTML, CSS, MATLAB, Bash.
-        - Material Simulation Tools: VASP, LAMMPS.
-        - FEM Modeling Tools: ABAQUS, MOOSE.
-        - Visualization Tool: Vesta, OriginPro, OVITO, Paraview, Atomsk.
-        - High-performance Computing (HPC): Compute Canada, Sockeye Server.
-        - Drawing & Design Tools: Solidworks.
-        - Documentation & Presentation Application: Office Suite, LaTeX.
-        - Operating System: Windows (WSL), Linux (Ubuntu)
+        - Programming Languages - C, HTML, CSS, MATLAB, Bash.
+        - Material Simulation Tools - VASP, LAMMPS.
+        - FEM Modeling Tools - ABAQUS, MOOSE.
+        - Visualization Tool - Vesta, OriginPro, OVITO, Paraview, Atomsk.
+        - High-performance Computing (HPC) - Compute Canada, Sockeye Server.
+        - Drawing & Design Tools - Solidworks.
+        - Documentation & Presentation Application - Office Suite, LaTeX.
+        - Operating System - Windows (WSL), Linux (Ubuntu)
     - title: Experiment
       items:
-        - Battery Testing: Battery cell assembly, Cyclic testing, In-situ optical microscopy.
-        - Clean-room Testing: DEKTAK profilometer.
+        - Battery Testing - Battery cell assembly, Cyclic testing, In-situ optical microscopy.
+        - Clean-room Testing - DEKTAK profilometer.
 
 - title: Other Interests
   type: list
