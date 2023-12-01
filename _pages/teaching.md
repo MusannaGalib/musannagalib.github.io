@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+permalink: /Gallery/
+title: Gallery
+description: Memories to make!
+nav: true
 nav_order: 5
 ---
 
