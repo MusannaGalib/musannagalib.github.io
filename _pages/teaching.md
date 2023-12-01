@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Gallery/
-title: Gallery
+permalink: /gallery/
+title: gallery
 description: Memories to make!
 nav: true
 nav_order: 5
