@@ -1,8 +1,8 @@
 ---
 layout: page
-title: teaching_info
-permalink: /teaching_info/
-description: Materials and information related to courses/researches
+title: teaching
+permalink: /teaching/
+description: Materials and information related to courses/research
 nav: true
 nav_order: 2
 display_categories: [work, fun]
