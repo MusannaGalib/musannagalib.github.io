@@ -11,87 +11,102 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. Candidate
+    - title: Ph.D. Candidate, Mechanical Engineering
       institution: University of British Columbia, Vancouver, Canada
       year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        -  title: Dissertation title: Dendrite Inhibition Strategy using Hetero-epitaxy in Thin Film Deposition Mechanics.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - CGPA: 87%
+            - Sep 2020 - Present
+    - title: M.Sc. in Mechanical Engineering
+      institution: Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
+        - title: Dissertation title: Study of electro-mechanical properties of manganese-based nanocomposites for supercapacitors
+        contents:
+            - CGPA: 3.92/4.00
+            - Apr 2017 – May 2019
+    - title: B.Sc. in Mechanical Engineering
+      institution: Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
+      year: 2019
+      description:
+        - title: Computer Modeling of Fire Smoke Movement in Multizone Structure Using Two Open Source Platforms
+        contents:
+            - CGPA: 3.92/4.00
+            - Apr 2012 - Feb 2017
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant
+      institution: University of British Columbia, Vancouver, Canada
+      year: 2021 -2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Research on rechargeable batteries and thin films
+    - title: Lecturer
+      institution: Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
+      year: 2017-2021
       description:
-        - Description 1.
-        - Description 2.
+        - Teaching multiple undergrad theory and laboratory courses.
+        - Worked as a staff member of The 13th and 12th International Conference on Mechanical Engineering (ICME 2019, ICME 2017).
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Extra-curricular activities
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Vice President (Academic), Mechanical Engineering Graduate Association, UBC.
+      year: 2022 January -2022 December
+      description: Arranging academic events for mechanical engineering graduate students.
+    - title: <a href="https://deabd.org/">Award Leader, The Duke of Edinburgh’s Award Foundation Bangladesh.</a>
+      year: 2017-2021
+      description: Arranging academic events for mechanical engineering graduate students.
+    - title: Gold Awardee of ‘The Duke of Edinburgh’s Award
+      year: 2017
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
+        - Collaborative Research Mobility Award (UBC CRMA) in UBC 
         - Matteucci Medal
-    - year: 2029
+    - year: 2021
       items: 
-        - Max Planck Medal
-
-- title: Academic Interests
+        - Faculty of Applied Science Graduate Award in UBC
+    - year: 2021-2024
+      items: 
+        - President’s Academic Excellence Initiative Ph.D. Award (PAEIPA) in UBC
+        - 4-Year Doctoral Fellowship in UBC
+   - year: 2013-2017
+      items: 
+        - Dean’s List for 4 consecutive years in BUET
+        - University Merit for 4 consecutive years in BUET.
+   - year: 2011
+      items: 
+        - Board Scholarship in HSC 2011
+   - year: 2009
+      items: 
+        - Board Scholarship in SSC 2009 (37th position in Bangladesh).  
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Simulation
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Programming Languages: C, HTML, CSS, MATLAB, Bash.
+        - Material Simulation Tools: VASP, LAMMPS.
+        - FEM Modeling Tools: ABAQUS, MOOSE.
+        - Visualization Tool: Vesta, OriginPro, OVITO, Paraview, Atomsk.
+        - High-performance Computing (HPC): Compute Canada, Sockeye Server.
+        - Drawing & Design Tools: Solidworks.
+        - Documentation & Presentation Application: Office Suite, LaTeX.
+        - Operating System: Windows (WSL), Linux (Ubuntu)
+    - title: Experiment
       items:
-        - Description 1.
-        - Description 2.
+        - Battery Testing: Battery cell assembly, Cyclic testing, In-situ optical microscopy.
+        - Clean-room Testing: DEKTAK profilometer.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Travelling, Movies, etc.
