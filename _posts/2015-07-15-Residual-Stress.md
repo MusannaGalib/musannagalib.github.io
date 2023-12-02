@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with code
-date: 2015-07-15 15:09:00
-description: an example of a blog post with some code
+title: Residual Stress
+date: 2023-12-30 15:09:00
+description: Residual Stress
 tags: formatting code
 categories: sample-posts
 featured: true
