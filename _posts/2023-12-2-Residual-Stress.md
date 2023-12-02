@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Residual Stress
-date: 2023-12-30 15:09:00
+date: 2023-12-2 15:09:00
 description: Residual Stress
 tags: formatting code
 categories: sample-posts
