@@ -2,9 +2,9 @@
 layout: page
 title: BUET Lecturer
 description: Content from BUET Lecturership
-img: assets/img/7.jpg
+img: assets/img/BUET_logo.jpg
 #redirect: https://unsplash.com
-importance: 3
+importance: 2
 category: work
 ---
 
