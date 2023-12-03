@@ -17,10 +17,8 @@ latest_posts: true  # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
 ---
 
-Musanna Galib is a Mechanical Engineer and Researcher.
+Musanna Galib’s research interests encompass exploring the core mechanisms that emerge in materials under different conditions using multiscale modeling and experiments. Currently, Musanna is working on solving the dendrite problem in rechargeable batteries at UBC. This work exists at the intersection of mechanics of materials, materials science, and electrochemical phenomena.  
 
-Musanna Galib completed his M.Sc. (2019) and B.Sc. (2017) in Mechanical Engineering from Bangladesh University of Engineering and Technology (BUET). Currently, Musanna is working as an Assistant Professor in the Department of Mechanical Engineering, BUET.
-
-Musanna Galib’s research interests encompass energy storage systems, multiscale modeling, and mechanics. Besides, he has a keen interest in engineering education.
+Musanna Galib completed his M.Sc. (2019) and B.Sc. (2017) in Mechanical Engineering from Bangladesh University of Engineering and Technology (BUET).
 
 For any query, suggestion, or collaboration, please contact: galibubc at student.ubc.ca
