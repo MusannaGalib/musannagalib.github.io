@@ -1,11 +1,11 @@
 ---
 layout: page
-title: UBC Teaching Assistantship
+title: UBC TA
 description: Contents from TAshp
-img: assets/img/3.jpg
-importance: 2
+img: assets/img/UBC_logo.jpg
+importance: 1
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.
