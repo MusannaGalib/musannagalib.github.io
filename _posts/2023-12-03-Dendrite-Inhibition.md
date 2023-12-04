@@ -1,7 +1,7 @@
 ---
 layout: distill
-title: Alucone Coating on Zn surfaces
-description: Engineering Chemo-Mechanical Properties of Zn Surfaces via Alucone Coating
+title: Dendrite Inhibition
+description: Dendrite Inhibition Strategy
 tags: distill formatting
 giscus_comments: false
 date: 2023-01-01
