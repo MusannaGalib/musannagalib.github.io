@@ -3,7 +3,7 @@ layout: post
 title: Residual Stress
 date: 2023-12-2 15:09:00
 description: Residual Stress
-tags: formatting code
+tags: ResidualStress DFT FiniteElement 
 categories: sample-posts
 featured: true
 ---
