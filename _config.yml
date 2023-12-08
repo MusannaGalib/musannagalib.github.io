@@ -260,7 +260,7 @@ jekyll-archives:
     tag: '/research/tag/:name/'
     category: '/research/category/:name/'
 
-display_tags: ['Mechanics', 'ResidualStress', 'Battery', 'DFT', 'PhaseField', 'FiniteElement'] # these tags will be displayed on the front page of your blog
+display_tags: ['Mechanics', 'MultiScaleModeling', 'DFT', 'PhaseField', 'FiniteElement'] # these tags will be displayed on the front page of your blog
 display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
