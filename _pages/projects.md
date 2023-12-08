@@ -13,6 +13,12 @@ horizontal: false
 * Technical Writing Management: <a href="https://www.wolframalpha.com/">WolframAlpha</a>, <a href="https://www.overleaf.com/">Overleaf</a>, <a href="https://miktex.org/download">MiKTeX</a>, <a href="https://automeris.io/WebPlotDigitizer/">WebPlotDigitizer</a>, <a href="https://www.xm1math.net/texmaker/">TEXMAKER</a>, <a href="https://mathpix.com/">Mathpix</a>, <a href="https://www.connectedpapers.com/">Connected Papers</a>
 * Technical Resources-Structure Repositories: <a href="https://www.crystallography.net/cod/search.html">Crystallography Open Database</a>, <a href="https://www.ccdc.cam.ac.uk/">Cambridge Crystallographic Data Centre</a>, <a href="http://rruff.geo.arizona.edu/AMS/amcsd.php"> American Mineralogist Crystal Structure Database</a>, <a href="https://pubpeer.com/"> Pubpeer</a>, <a href="https://jp-minerals.org/vesta/en/"> Vesta</a>
 
+## Recommended Books:
+* Theory of Dislocations by Peter M. Anderson, John P. Hirth, Jens Lothe
+* Thin Film Materials by L. B. Freund, and S. Suresh
+
+
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
