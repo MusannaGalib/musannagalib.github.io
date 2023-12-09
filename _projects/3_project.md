@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BUET Lecturer
+title: BUET
 description: Content from BUET Lecturership
 img: assets/img/BUET_logo.png
 #redirect: https://unsplash.com
