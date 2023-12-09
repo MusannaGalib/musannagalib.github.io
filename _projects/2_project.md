@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UBC TA
+title: UBC
 description: Contents from TAshp
 img: assets/img/UBC_logo.jpg
 importance: 1
