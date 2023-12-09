@@ -11,7 +11,7 @@ category: work
 * ME 171: Computer Programming Language: 
 
 
-|  |  |
+| Lectures        | Content           |
 | :----------- | :------------: | 
 | Lecture 1       |  <a href="https://drive.google.com/file/d/1CdP3-2dQSmX-dicm53V4QrJZ864FcJwo/view">Computer Languages: Machine, Assembly, High-Level Language</a>       | 
 | Lecture 2       | <a href="https://drive.google.com/file/d/1cnGDVWpnmH15Hx0E67ywX5GvfrIyTgMJ/view">Compiler, Interpreter, Identifiers, Data Storing</a>       | 
@@ -26,7 +26,7 @@ category: work
 *Book Reference	The C Programming Language – Brian W. Kernighan, Dennis M. Ritchie
 *Book Reference	Introduction to Algorithms, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein.
 *Book Reference	Sorting and searching algorithms, by Thomas Niemann.
-<p></p>
+
 
 
 * ME 165: Basic Mechanical Engineering: <a href="https://orcid.org/0000-0002-1735-7546">ORCID</a>
