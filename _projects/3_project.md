@@ -54,7 +54,9 @@ Book Reference	Introduction to Robotics: Analysis, System and Application by Sae
 Book Reference	Ferguson & Kirkpatric (2015), Internal Combustion Engines, J. Wiley & Sons
 
 
-* ME 267  Mechanical Engineering Fundamentals: 
+* ME 267  Mechanical Engineering Fundamentals:
+  
+
 | Lectures      |    Content    |
 | :----------- | :------------: | 
 | Lecture 1     | <a href="https://drive.google.com/file/d/1_tcACx34xOrS4A8TcQdH6uM9fsUpkPFE/view">Internal Combustion Engines: terminology & Classification</a> | 
@@ -79,7 +81,8 @@ Book Reference	Ferguson & Kirkpatric (2015), Internal Combustion Engines, J. Wil
 Book Reference	Stone (2012), Introduction to Internal Combustion Engines, Palgrave Macmillan.
 
 
-* ME 366 Electro-Mechanical System Design and Practices: 
+* ME 366 Electro-Mechanical System Design and Practices:
+  
 | Lectures      |     Content    |
 | :----------- | :------------: | 
 | Lecture 1     | <a href="https://drive.google.com/file/d/1r6fRveS-eympQLAJ-EkRoqrdVzMehTHX/view">Basic Components Lecture One</a> | 
@@ -88,7 +91,8 @@ Book Reference	Stone (2012), Introduction to Internal Combustion Engines, Palgra
 | Lecture 4     | <a href="https://drive.google.com/file/d/0BwEhIIpF8G4ubG1lbUJoaWFwbk0/view?resourcekey=0-z3lgI65KHwdNCP6ZsQv1Aw">Arduino Lecture Two</a>  |
 | Lecture 5     | <a href="https://drive.google.com/file/d/1X-z8HgbUYDWCvSDSIWkncfqgWB_Aga_3/view">Arduino Lecture Three</a>      |
 
-* ME 160 Mechanical Engineering Drawing-I: 
+* ME 160 Mechanical Engineering Drawing-I:
+  
 | Lectures      |     Content    |
 | :----------- | :------------: | 
 | Lecture 1     | <a href="https://drive.google.com/file/d/0BwEhIIpF8G4uY1NkUEhhME9pTzQ/view?resourcekey=0-agbe8lzV4V5SQVEm9X8X0w">Introduction</a> | 
