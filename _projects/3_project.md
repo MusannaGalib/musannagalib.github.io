@@ -11,7 +11,7 @@ category: work
 * ME 171: Computer Programming Language: 
 
 
-| Lectures        | Content           |
+| Lectures     |    Content     |
 | :----------- | :------------: | 
 | Lecture 1       |  <a href="https://drive.google.com/file/d/1CdP3-2dQSmX-dicm53V4QrJZ864FcJwo/view">Computer Languages: Machine, Assembly, High-Level Language</a>       | 
 | Lecture 2       | <a href="https://drive.google.com/file/d/1cnGDVWpnmH15Hx0E67ywX5GvfrIyTgMJ/view">Compiler, Interpreter, Identifiers, Data Storing</a>       | 
@@ -21,11 +21,12 @@ category: work
 | Lecture 6       | 		<a href="https://drive.google.com/file/d/1t1a__HPTMHnoffO98BMscNtIszxIOr9j/view">Control flow: If, If else, switch, for, while, do while, break, continue statement</a>       | 
 | Lecture 7       | 	<a href="https://drive.google.com/file/d/1tHH_05MNx9IgC3Fk4hjFBgkq2Rki_a7D/view">Algorithms: Concept, Sorting, Recursion</a>       | 
 | Lecture 8       | 	<a href="https://drive.google.com/file/d/168Mtn6BTcIA7H5mB4D3eNInnFWWkJUFk/view">Strings</a>       | 
-*Book Reference	Teach Yourself C - Herbert Schildt
-*Book Reference	Programming in ANSI C – E Balagurusamy
-*Book Reference	The C Programming Language – Brian W. Kernighan, Dennis M. Ritchie
-*Book Reference	Introduction to Algorithms, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein.
-*Book Reference	Sorting and searching algorithms, by Thomas Niemann.
+
+Book Reference	Teach Yourself C - Herbert Schildt
+Book Reference	Programming in ANSI C – E Balagurusamy
+Book Reference	The C Programming Language – Brian W. Kernighan, Dennis M. Ritchie
+Book Reference	Introduction to Algorithms, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein.
+Book Reference	Sorting and searching algorithms, by Thomas Niemann.
 
 
 
