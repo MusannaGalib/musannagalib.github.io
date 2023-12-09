@@ -2,7 +2,7 @@
 layout: page
 title: Handnotes
 description: My Handnotes
-img: assets/img/12.jpg
+img: assets/img/BUET_logo.png
 importance: 3
 category: work
 ---
