@@ -8,7 +8,7 @@ importance: 2
 category: work
 ---
 
-* ME 171: Computer Programming Language: 
+* ME 171 Computer Programming Language: 
 
 
 | Lectures     |     Content    |
@@ -30,7 +30,7 @@ Book Reference	Sorting and searching algorithms, by Thomas Niemann.
 
 
 
-* ME 165: Basic Mechanical Engineering: 
+* ME 165 Basic Mechanical Engineering: 
 
 | Lectures        | Content           | 
 | ------------- |:-------------:| 
@@ -54,14 +54,14 @@ Book Reference	Introduction to Robotics: Analysis, System and Application by Sae
 Book Reference	Ferguson & Kirkpatric (2015), Internal Combustion Engines, J. Wiley & Sons
 
 
-* ME 267 : Mechanical Engineering Fundamentals: 
-| Tables        | Are           | 
+* ME 267  Mechanical Engineering Fundamentals: 
+
 | ------------- |:-------------:| 
 | Lecture 1     | <a href="https://drive.google.com/file/d/1_tcACx34xOrS4A8TcQdH6uM9fsUpkPFE/view">Internal Combustion Engines: terminology & Classification</a> | 
-| Lecture 2     | <a href="https://drive.google.com/file/d/1ONqoN95ZQCmdCKGTa12-uMqwpW2JL9Nx/view">Engine Operation : SI & CI (4 Strokes)</a> | 
+| Lecture 2     | <a href="https://drive.google.com/file/d/1ONqoN95ZQCmdCKGTa12-uMqwpW2JL9Nx/view">Engine Operation : SI & CI (4 Strokes)</a>| 
 | Lecture 3     | <a href="https://drive.google.com/file/d/13dvZ6OT4i3SIfTLz9oI1Nu3kZHWtN7iT/view">Engine Subsystem: Air intake & exhaust system, Fuel supply system, Ignition system, Lubrication system, Starting system</a>      |
 | Lecture 4     | <a href="https://drive.google.com/file/d/1BLH_Zj2j0dFACu3oQb99Ah76m70ND2G9/view">Air Standard Cycles – Otto Cycle</a> | 
-| Lecture 5     | <a href="https://drive.google.com/file/d/1BLH_Zj2j0dFACu3oQb99Ah76m70ND2G9/view">Air Standard Cycles – Diesel Cycle</a>      | 
+| Lecture 5     | <a href="https://drive.google.com/file/d/1BLH_Zj2j0dFACu3oQb99Ah76m70ND2G9/view">Air Standard Cycles – Diesel Cycle</a>    | 
 | Lecture 6     | <a href="https://drive.google.com/file/d/1AXLnKq6nkILMAky3_U1qXHC6BtZ_nQ1m/view">Refrigeration: Joule Thomson Effect, Vapor Compression & Vapor Absorption Refrigeration System</a>      |
 | Lecture 7     | <a href="https://drive.google.com/file/d/1ZPyVuzm0kMFi13oZZv4bjCFhn7Ax6WT4/view">Refrigerants</a> | 
 | Lecture 8     | <a href="https://drive.google.com/file/d/16rNYXkHqux3C0xgmcdxQrDERccTebdIe/view">Air Conditioning Systems</a>      | 
@@ -80,17 +80,26 @@ Book Reference	Stone (2012), Introduction to Internal Combustion Engines, Palgra
 
 
 * ME 366 Electro-Mechanical System Design and Practices: 
-| Tables        | Are           | 
+
 | ------------- |:-------------:| 
-| Lecture 1     | <a href=""></a> | 
-| Lecture 2     | <a href=""></a>      | 
-| Lecture 3     | <a href=""></a>      |
+| Lecture 1     | <a href="https://drive.google.com/file/d/1r6fRveS-eympQLAJ-EkRoqrdVzMehTHX/view">Basic Components Lecture One</a> | 
+| Lecture 2     | <a href="https://drive.google.com/file/d/1yq_OrF9HyQdXMCaDkgRm9XsWXcINdhdq/view">Basic Components Lecture Two</a>      | 
+| Lecture 3     | <a href="https://drive.google.com/file/d/1pk1NaTl34KDuWgguJIn9Vel5kK7z_bJi/view">Arduino Lecture One</a>      |
+| Lecture 3     | <a href="https://drive.google.com/file/d/0BwEhIIpF8G4ubG1lbUJoaWFwbk0/view?resourcekey=0-z3lgI65KHwdNCP6ZsQv1Aw">Arduino Lecture Two</a>  |
+| Lecture 3     | <a href="https://drive.google.com/file/d/1X-z8HgbUYDWCvSDSIWkncfqgWB_Aga_3/view">Arduino Lecture Three</a>      |
 
 * ME 160 Mechanical Engineering Drawing-I: 
-| Tables        | Are           | 
+
 | ------------- |:-------------:| 
-| Lecture 1     | <a href=""></a> | 
-| Lecture 2     | <a href=""></a>      | 
-| Lecture 3     | <a href=""></a>      |
+| Lecture 1     | <a href="https://drive.google.com/file/d/0BwEhIIpF8G4uY1NkUEhhME9pTzQ/view?resourcekey=0-agbe8lzV4V5SQVEm9X8X0w">Introduction</a> | 
+| Lecture 2     | <a href="https://drive.google.com/file/d/17eaWKT4U75ibwd1YFyf5FOzk3fnLggCy/view">Orthographic Projection Drawing</a> | 
+| Lecture 3     | <a href="https://drive.google.com/file/d/140ReJA3kZnLwxA4as3aXm0hC6mJsYmAB/view">Orthographic Projection Drawing (with holes)</a> |
+| Lecture 4     | <a href="https://drive.google.com/file/d/1dmVNs6Ep9ML18UNwa-eNErwsJPMZHRkX/view">Rounds and Fillets </a> | 
+| Lecture 5     | <a href="https://drive.google.com/file/d/12zB9VwCFUPWYpg79qvnvHPo2xgyh1rvs/view">Sectional Views</a> | 
+| Lecture 6     | <a href="https://drive.google.com/file/d/1NoabXgWuPwdX2VjZQvsdA4AvXqp6noPt/view">Sectional Views (with ribs)</a> |
+| Lecture 7     | <a href="https://drive.google.com/file/d/1W4E4-VNfjsgetyy7_EpDLKkZw1KirhFC/view">Auxiliary Views</a> | 
+| Lecture 8     | <a href="https://drive.google.com/file/d/1EeGfgNdMKQN4tu7V0y_7VIm3pMy8QLzj/view">Isometric Views</a> | 
+| Lecture 9     | <a href="https://drive.google.com/file/d/1SvG6xGoDDvu_z64gX6dblGLmC78UFNnB/view">Isometric Views ( with Holes)</a> |
+| Lecture 10     | <a href="https://drive.google.com/file/d/1ALPnAS-zCSDwCLnekrYkrMP3D0HEN5AC/view">Missing Lines & Missing Views</a> | 
 
 
