@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UBC
-description: Contents from TAshp
+description: Graduate Teaching Assistant 
 img: assets/img/UBC_logo.jpg
 importance: 1
 category: work
@@ -9,6 +9,8 @@ giscus_comments: false
 ---
 
 
-* MECH 260 2023 Tutorial: <a href="https://orcid.org/0000-0002-1735-7546">ORCID</a>
+* MECH 260 - Introduction to Mechanics of Materials
+* MECH 220 - Technical Skills Practicum - Mechanical Drafting Book Development
+* APSC 100, 101 - Introduction to Engineering I, I
 
 
