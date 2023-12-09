@@ -55,7 +55,7 @@ Book Reference	Ferguson & Kirkpatric (2015), Internal Combustion Engines, J. Wil
 
 
 * ME 267  Mechanical Engineering Fundamentals: 
-| Lectures     |     Content    |
+| Lectures      |    Content    |
 | ------------- |:-------------:| 
 | Lecture 1     | <a href="https://drive.google.com/file/d/1_tcACx34xOrS4A8TcQdH6uM9fsUpkPFE/view">Internal Combustion Engines: terminology & Classification</a> | 
 | Lecture 2     | <a href="https://drive.google.com/file/d/1ONqoN95ZQCmdCKGTa12-uMqwpW2JL9Nx/view">Engine Operation : SI & CI (4 Strokes)</a>| 
@@ -69,7 +69,7 @@ Book Reference	Ferguson & Kirkpatric (2015), Internal Combustion Engines, J. Wil
 | Lecture 10     | <a href="https://drive.google.com/file/d/1Hs2UCkLXw_tQ9xMsrpS2Xr4WZwvkQNLv/view">Gas Turbine Modifications : Reheat, Regeneration, Intercooling</a> | 
 | Lecture 11    | <a href="https://drive.google.com/file/d/1JcAHj0VvRf9aDn9FFwgoBn5azx1ZYldY/view">Gas Turbine Cycle Analysis</a>      | 
 | Lecture 12    | <a href="https://drive.google.com/file/d/1h5UjYb6m0fS8IwhIpJd47X3w_qI1V2al/view">IC Engine Analysis</a>      |
-|      | <a href="https://drive.google.com/file/d/125AhQ-o3kSFoAnKb1An9OxRSxtkCVHCZ/view">DEFINITIONS AND RELATED EQUATIONS OF INTERNAL COMBUSTION RECIPROCATING ENGINES</a> | 
+|               | <a href="https://drive.google.com/file/d/125AhQ-o3kSFoAnKb1An9OxRSxtkCVHCZ/view">DEFINITIONS AND RELATED EQUATIONS OF INTERNAL COMBUSTION RECIPROCATING ENGINES</a> | 
 
 
 Book Reference	Hundy, Trott & Welch (2008), Refrigeration & Air-conditioning, Butterworth-Heinemann.
@@ -80,16 +80,16 @@ Book Reference	Stone (2012), Introduction to Internal Combustion Engines, Palgra
 
 
 * ME 366 Electro-Mechanical System Design and Practices: 
-| Lectures     |     Content    |
+| Lectures      |     Content    |
 | ------------- |:-------------:| 
 | Lecture 1     | <a href="https://drive.google.com/file/d/1r6fRveS-eympQLAJ-EkRoqrdVzMehTHX/view">Basic Components Lecture One</a> | 
 | Lecture 2     | <a href="https://drive.google.com/file/d/1yq_OrF9HyQdXMCaDkgRm9XsWXcINdhdq/view">Basic Components Lecture Two</a>      | 
 | Lecture 3     | <a href="https://drive.google.com/file/d/1pk1NaTl34KDuWgguJIn9Vel5kK7z_bJi/view">Arduino Lecture One</a>      |
-| Lecture 3     | <a href="https://drive.google.com/file/d/0BwEhIIpF8G4ubG1lbUJoaWFwbk0/view?resourcekey=0-z3lgI65KHwdNCP6ZsQv1Aw">Arduino Lecture Two</a>  |
-| Lecture 3     | <a href="https://drive.google.com/file/d/1X-z8HgbUYDWCvSDSIWkncfqgWB_Aga_3/view">Arduino Lecture Three</a>      |
+| Lecture 4     | <a href="https://drive.google.com/file/d/0BwEhIIpF8G4ubG1lbUJoaWFwbk0/view?resourcekey=0-z3lgI65KHwdNCP6ZsQv1Aw">Arduino Lecture Two</a>  |
+| Lecture 5     | <a href="https://drive.google.com/file/d/1X-z8HgbUYDWCvSDSIWkncfqgWB_Aga_3/view">Arduino Lecture Three</a>      |
 
 * ME 160 Mechanical Engineering Drawing-I: 
-| Lectures     |     Content    |
+| Lectures      |     Content    |
 | ------------- |:-------------:| 
 | Lecture 1     | <a href="https://drive.google.com/file/d/0BwEhIIpF8G4uY1NkUEhhME9pTzQ/view?resourcekey=0-agbe8lzV4V5SQVEm9X8X0w">Introduction</a> | 
 | Lecture 2     | <a href="https://drive.google.com/file/d/17eaWKT4U75ibwd1YFyf5FOzk3fnLggCy/view">Orthographic Projection Drawing</a> | 
@@ -100,6 +100,6 @@ Book Reference	Stone (2012), Introduction to Internal Combustion Engines, Palgra
 | Lecture 7     | <a href="https://drive.google.com/file/d/1W4E4-VNfjsgetyy7_EpDLKkZw1KirhFC/view">Auxiliary Views</a> | 
 | Lecture 8     | <a href="https://drive.google.com/file/d/1EeGfgNdMKQN4tu7V0y_7VIm3pMy8QLzj/view">Isometric Views</a> | 
 | Lecture 9     | <a href="https://drive.google.com/file/d/1SvG6xGoDDvu_z64gX6dblGLmC78UFNnB/view">Isometric Views ( with Holes)</a> |
-| Lecture 10     | <a href="https://drive.google.com/file/d/1ALPnAS-zCSDwCLnekrYkrMP3D0HEN5AC/view">Missing Lines & Missing Views</a> | 
+| Lecture 10    | <a href="https://drive.google.com/file/d/1ALPnAS-zCSDwCLnekrYkrMP3D0HEN5AC/view">Missing Lines & Missing Views</a> | 
 
 
