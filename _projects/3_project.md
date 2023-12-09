@@ -11,11 +11,11 @@ category: work
 * ME 171: Computer Programming Language: <a href="https://orcid.org/0000-0002-1735-7546">ORCID</a>
 
 
-| Left aligned | Center aligned | Right aligned |
-| :----------- | :------------: | ------------: |
-| Left 1       | center 1       | right 1       |
-| Left 2       | center 2       | right 2       |
-| Left 3       | center 3       | right 3       |
+| Center aligned | Center aligned |
+| :----------- | :------------: | 
+| Lecture 1       | center 1       | 
+| Lecture 2       | center 2       | 
+| Left 3       | center 3       | 
 
 <p></p>
 
