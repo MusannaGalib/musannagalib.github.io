@@ -30,7 +30,7 @@ Book Reference	Sorting and searching algorithms, by Thomas Niemann.
 
 
 
-* ME 165: Basic Mechanical Engineering: <a href="https://orcid.org/0000-0002-1735-7546">ORCID</a>
+* ME 165: Basic Mechanical Engineering: 
 
 | Lectures        | Content           | 
 | ------------- |:-------------:| 
@@ -38,21 +38,14 @@ Book Reference	Sorting and searching algorithms, by Thomas Niemann.
 | Lecture 2      | <a href="https://drive.google.com/file/d/1Ecx-6oDnvufHGST8BWxv3ZmRzkaCtkaW/view">Refrigeration: Joule Thomson Effect, Vapor Compression & Vapor Absorption Refrigeration System</a>      | 
 |                | <a href="https://drive.google.com/file/d/1vMkwJLjtCNU2BqItIirUpgv5hDp5VxP-/view">Property Tables - Water, R134a</a>      |
 | Lecture 3      | <a href="https://drive.google.com/file/d/1aV4kR1CiVXeTCiUbpmfE1fXnoukNyJp-/view">Refrigerants</a>      |  
-| Lecture 4      | <a href="https://drive.google.com/file/d/1T2rNiQVF8wMxWqpvUd_TC9jDIXA4tlIT/view">Air conditioning system
-</a> | 
-| Lecture 5      | <a href="https://drive.google.com/file/d/14KTvs0a0Kq8frYZSd2cbEdHrNjIs31Vo/view">Internal Combustion Engines: terminology & Classification
-</a>      | 
-| Lecture 6      | <a href="https://drive.google.com/file/d/1_1HJTY9fkGRFdK8k8ecEVTeNVde0YZ_c/view">Engine Operation : SI &CI (4 Strokes)
-</a>      |
-| Lecture 7      | <a href="https://drive.google.com/file/d/12EhMvFVZogkASna1-ldp3Nz4Wb_uY01W/view">Engine Subsystem: Air intake & exhaust system, Fuel supply system, Ignition system, Lubrication system, Starting system
-</a> | 
+| Lecture 4      | <a href="https://drive.google.com/file/d/1T2rNiQVF8wMxWqpvUd_TC9jDIXA4tlIT/view">Air conditioning system</a> | 
+| Lecture 5      | <a href="https://drive.google.com/file/d/14KTvs0a0Kq8frYZSd2cbEdHrNjIs31Vo/view">Internal Combustion Engines: terminology & Classification</a>      | 
+| Lecture 6      | <a href="https://drive.google.com/file/d/1_1HJTY9fkGRFdK8k8ecEVTeNVde0YZ_c/view">Engine Operation : SI &CI (4 Strokes)</a>      |
+| Lecture 7      | <a href="https://drive.google.com/file/d/12EhMvFVZogkASna1-ldp3Nz4Wb_uY01W/view">Engine Subsystem: Air intake & exhaust system, Fuel supply system, Ignition system, Lubrication system, Starting system</a> | 
 | Lecture 8      | <a href="https://drive.google.com/file/d/13nRfKAHGFoJt51sYJ7V3oFP16pPhIn4m/view">Air Standard Cycles</a>      | 
-| Lecture 9      | <a href="https://drive.google.com/file/d/1Hp9uYHwR4m76lGDtDJnwqlvkAgMaF1sY/view">IC Engine Analysis
-</a>      |
-| Lecture 10      | <a href="https://drive.google.com/file/d/1yIcFoJjW5es4V9EmVQXP0nmvmhPE5hXR/view">Robotics : Specifications, geometric configurations and Drive Systems
-</a> | 
-| Lecture 11      | <a href="https://drive.google.com/file/d/16KHJtd5ZsveK1Z-l2p_neI3kwDuEOtHY/view">Robot Motion Characteristics
-</a>      | 
+| Lecture 9      | <a href="https://drive.google.com/file/d/1Hp9uYHwR4m76lGDtDJnwqlvkAgMaF1sY/view">IC Engine Analysis</a>      |
+| Lecture 10      | <a href="https://drive.google.com/file/d/1yIcFoJjW5es4V9EmVQXP0nmvmhPE5hXR/view">Robotics : Specifications, geometric configurations and Drive Systems</a> | 
+| Lecture 11      | <a href="https://drive.google.com/file/d/16KHJtd5ZsveK1Z-l2p_neI3kwDuEOtHY/view">Robot Motion Characteristics</a>      | 
 
 Book Reference	Thermal Engineering by R.S. Khurmi
 Book Reference	Thermodynamics by Yunus A Cengel
@@ -61,10 +54,43 @@ Book Reference	Introduction to Robotics: Analysis, System and Application by Sae
 Book Reference	Ferguson & Kirkpatric (2015), Internal Combustion Engines, J. Wiley & Sons
 
 
-* ME 267 : Mechanical Engineering Fundamentals: <a href="https://orcid.org/0000-0002-1735-7546">ORCID</a>
+* ME 267 : Mechanical Engineering Fundamentals: 
+| Tables        | Are           | 
+| ------------- |:-------------:| 
+| Lecture 1     | <a href="https://drive.google.com/file/d/1_tcACx34xOrS4A8TcQdH6uM9fsUpkPFE/view">Internal Combustion Engines: terminology & Classification</a> | 
+| Lecture 2     | <a href="https://drive.google.com/file/d/1ONqoN95ZQCmdCKGTa12-uMqwpW2JL9Nx/view">Engine Operation : SI & CI (4 Strokes)</a> | 
+| Lecture 3     | <a href="https://drive.google.com/file/d/13dvZ6OT4i3SIfTLz9oI1Nu3kZHWtN7iT/view">Engine Subsystem: Air intake & exhaust system, Fuel supply system, Ignition system, Lubrication system, Starting system</a>      |
+| Lecture 4     | <a href="https://drive.google.com/file/d/1BLH_Zj2j0dFACu3oQb99Ah76m70ND2G9/view">Air Standard Cycles – Otto Cycle</a> | 
+| Lecture 5     | <a href="https://drive.google.com/file/d/1BLH_Zj2j0dFACu3oQb99Ah76m70ND2G9/view">Air Standard Cycles – Diesel Cycle</a>      | 
+| Lecture 6     | <a href="https://drive.google.com/file/d/1AXLnKq6nkILMAky3_U1qXHC6BtZ_nQ1m/view">Refrigeration: Joule Thomson Effect, Vapor Compression & Vapor Absorption Refrigeration System</a>      |
+| Lecture 7     | <a href="https://drive.google.com/file/d/1ZPyVuzm0kMFi13oZZv4bjCFhn7Ax6WT4/view">Refrigerants</a> | 
+| Lecture 8     | <a href="https://drive.google.com/file/d/16rNYXkHqux3C0xgmcdxQrDERccTebdIe/view">Air Conditioning Systems</a>      | 
+| Lecture 9     | <a href="https://drive.google.com/file/d/1LELINtsp4eIwqMWA1XGO-hi1NGDLT70b/view">Gas Turbine : Working Principle, classifications</a>      |
+| Lecture 10     | <a href="https://drive.google.com/file/d/1Hs2UCkLXw_tQ9xMsrpS2Xr4WZwvkQNLv/view">Gas Turbine Modifications : Reheat, Regeneration, Intercooling</a> | 
+| Lecture 11    | <a href="https://drive.google.com/file/d/1JcAHj0VvRf9aDn9FFwgoBn5azx1ZYldY/view">Gas Turbine Cycle Analysis</a>      | 
+| Lecture 12    | <a href="https://drive.google.com/file/d/1h5UjYb6m0fS8IwhIpJd47X3w_qI1V2al/view">IC Engine Analysis</a>      |
+|      | <a href="https://drive.google.com/file/d/125AhQ-o3kSFoAnKb1An9OxRSxtkCVHCZ/view">DEFINITIONS AND RELATED EQUATIONS OF INTERNAL COMBUSTION RECIPROCATING ENGINES</a> | 
 
-* ME 366 Electro-Mechanical System Design and Practices: <a href="https://orcid.org/0000-0002-1735-7546">ORCID</a>
 
-* ME 160 Mechanical Engineering Drawing-I: <a href="https://orcid.org/0000-0002-1735-7546">ORCID</a>
+Book Reference	Hundy, Trott & Welch (2008), Refrigeration & Air-conditioning, Butterworth-Heinemann.
+Book Reference	McQuiston, Parker & Spitler (2005), Heating, Ventilating & Air-conditioning: Analysis & Design, J. Wiley
+Book Reference	Heywood (2018), Internal Combustion Engine Fundamentals, McGraw-Hill.
+Book Reference	Ferguson & Kirkpatric (2015), Internal Combustion Engines, J. Wiley & Sons.
+Book Reference	Stone (2012), Introduction to Internal Combustion Engines, Palgrave Macmillan.
+
+
+* ME 366 Electro-Mechanical System Design and Practices: 
+| Tables        | Are           | 
+| ------------- |:-------------:| 
+| Lecture 1     | <a href=""></a> | 
+| Lecture 2     | <a href=""></a>      | 
+| Lecture 3     | <a href=""></a>      |
+
+* ME 160 Mechanical Engineering Drawing-I: 
+| Tables        | Are           | 
+| ------------- |:-------------:| 
+| Lecture 1     | <a href=""></a> | 
+| Lecture 2     | <a href=""></a>      | 
+| Lecture 3     | <a href=""></a>      |
 
 
