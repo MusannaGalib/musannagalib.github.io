@@ -56,7 +56,7 @@ Book Reference	Ferguson & Kirkpatric (2015), Internal Combustion Engines, J. Wil
 
 * ME 267  Mechanical Engineering Fundamentals: 
 | Lectures      |    Content    |
-| ------------- |:-------------:| 
+| :----------- | :------------: | 
 | Lecture 1     | <a href="https://drive.google.com/file/d/1_tcACx34xOrS4A8TcQdH6uM9fsUpkPFE/view">Internal Combustion Engines: terminology & Classification</a> | 
 | Lecture 2     | <a href="https://drive.google.com/file/d/1ONqoN95ZQCmdCKGTa12-uMqwpW2JL9Nx/view">Engine Operation : SI & CI (4 Strokes)</a>| 
 | Lecture 3     | <a href="https://drive.google.com/file/d/13dvZ6OT4i3SIfTLz9oI1Nu3kZHWtN7iT/view">Engine Subsystem: Air intake & exhaust system, Fuel supply system, Ignition system, Lubrication system, Starting system</a>      |
@@ -81,7 +81,7 @@ Book Reference	Stone (2012), Introduction to Internal Combustion Engines, Palgra
 
 * ME 366 Electro-Mechanical System Design and Practices: 
 | Lectures      |     Content    |
-| ------------- |:-------------:| 
+| :----------- | :------------: | 
 | Lecture 1     | <a href="https://drive.google.com/file/d/1r6fRveS-eympQLAJ-EkRoqrdVzMehTHX/view">Basic Components Lecture One</a> | 
 | Lecture 2     | <a href="https://drive.google.com/file/d/1yq_OrF9HyQdXMCaDkgRm9XsWXcINdhdq/view">Basic Components Lecture Two</a>      | 
 | Lecture 3     | <a href="https://drive.google.com/file/d/1pk1NaTl34KDuWgguJIn9Vel5kK7z_bJi/view">Arduino Lecture One</a>      |
@@ -90,7 +90,7 @@ Book Reference	Stone (2012), Introduction to Internal Combustion Engines, Palgra
 
 * ME 160 Mechanical Engineering Drawing-I: 
 | Lectures      |     Content    |
-| ------------- |:-------------:| 
+| :----------- | :------------: | 
 | Lecture 1     | <a href="https://drive.google.com/file/d/0BwEhIIpF8G4uY1NkUEhhME9pTzQ/view?resourcekey=0-agbe8lzV4V5SQVEm9X8X0w">Introduction</a> | 
 | Lecture 2     | <a href="https://drive.google.com/file/d/17eaWKT4U75ibwd1YFyf5FOzk3fnLggCy/view">Orthographic Projection Drawing</a> | 
 | Lecture 3     | <a href="https://drive.google.com/file/d/140ReJA3kZnLwxA4as3aXm0hC6mJsYmAB/view">Orthographic Projection Drawing (with holes)</a> |
