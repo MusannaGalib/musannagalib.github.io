@@ -11,7 +11,7 @@ M.Sc. Thesis Defence:
 
 <a href="http://lib.buet.ac.bd:8080/xmlui/handle/123456789/5337">Study of electro-mechanical properties of manganese-based nanocomposites for supercapacitors</a> 
 
-#### Hipster list
+#### Tags
 <ul>
     <li>Supercapacitor</li>
     <li>LAMMPS</li>
