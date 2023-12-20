@@ -7,7 +7,7 @@ tags: PhaseField
 categories: sample-posts
 giscus_comments: false
 related_posts: true
-featured: true
+featured: false
 datatable: true
 related_publications: Galib2020
 
