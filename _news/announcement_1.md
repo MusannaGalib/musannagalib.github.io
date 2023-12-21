@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2017-02-01 15:59:00-0400
-inline: true
+inline: false
 related_posts: false
 related_publications: 10.1063/1.4984703
 ---
