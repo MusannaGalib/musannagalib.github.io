@@ -4,7 +4,7 @@ title: Supercapacitor Research
 date: 2020-03-23 14:37:00-0400
 description: Supercapacitor Research
 tags: Supercapacitor LAMMPS MolecularDynamics
-categories: sample-posts
+categories: sample-posts-not-shown
 giscus_comments: false
 related_posts: true
 datatable: true
