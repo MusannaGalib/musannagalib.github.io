@@ -4,6 +4,7 @@ title: M.Sc. Thesis Defence
 date: 2019-05-13 16:11:00-0400
 inline: false
 related_posts: false
+related_publications: Galib2020
 ---
 
 M.Sc. Thesis Defence: 
