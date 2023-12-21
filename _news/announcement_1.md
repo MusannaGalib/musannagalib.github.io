@@ -6,6 +6,9 @@ related_posts: false
 related_publications: 10.1063/1.4984703
 ---
 
+B.Sc. Thesis Defence: 
+***
+
 B.Sc. Thesis: <a href="https://www.researchgate.net/publication/339077863_Computer_Modeling_of_Fire_Smoke_Movement_in_Multizone_Structure_Using_Two_Open_Source_Platforms">Computer Modeling of Fire Smoke Movement in Multizone Structure Using Two Open Source Platforms</a> 
 
 
