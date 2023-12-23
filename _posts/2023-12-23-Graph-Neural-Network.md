@@ -6,7 +6,7 @@ tags: DFT
 giscus_comments: false
 date: 2023-01-01
 featured: false
-published: true
+published: false
 img: assets/img/Alucone.jpeg
 
 
