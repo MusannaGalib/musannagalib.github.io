@@ -13,7 +13,7 @@
   contents:
     - title: Ph.D. Candidate, Mechanical Engineering
       institution: University of British Columbia, Vancouver, Canada
-      year:  2020 - Present 
+      year:  2020 - 2025 
       description:
         -  Dissertation title - Dendrite Inhibition Strategy using Hetero-epitaxy in Thin Film Deposition Mechanics.
     - title:  <a href="https://drive.google.com/file/d/1HtTnwLoAKUD3hzeQpaDHO9bYU2LawKok/view">M.Sc. in Mechanical Engineering</a>
@@ -50,6 +50,10 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - 1st prize in “Ideas With Impact” Competition by The Institute for Computing, Information and Cognitive Systems (ICICS)
+        - CSME Congress “Best Presentation Award” in Computational Mechanics at the University of Toronto
     - year: 2023
       items: 
         - Collaborative Research Mobility Award (UBC CRMA) in UBC
