@@ -15,7 +15,7 @@ authors:
     url: "https://scholar.google.com/citations?user=BwQZTTkAAAAJ&hl=en&oi=ao"
     affiliations:
       name: UBC, Vancouver
-  - name: Okan K. Orhan
+  - name: Mewael Isiet
     url: ""
     affiliations:
       name: UBC, Vancouver
