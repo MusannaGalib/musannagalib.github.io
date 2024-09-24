@@ -3,7 +3,7 @@ layout: page
 permalink: /gallery/
 title: gallery
 description: Memories to make!
-nav: true
+nav: false
 nav_order: 5
 ---
 
