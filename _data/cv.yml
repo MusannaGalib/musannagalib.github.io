@@ -35,9 +35,15 @@
   contents:
     - title: 4-Year Doctoral Fellow & Graduate Research Assistant
       institution: University of British Columbia, Vancouver, Canada
-      year: 2021 - 2024
+      year: 2020 - 2025
       description:
         - Research on rechargeable batteries and thin films
+    - title:  Graduate Teaching Assistant
+      institution: University of British Columbia, Vancouver, Canada
+      year: 2022 - 2025
+      description:
+        - Dept. of Mechanical Engineering, UBC
+        - Dept. of Physics, UBC    
     - title: <a href="https://musannagalib.github.io/teaching/3_project/">Assistant Professor (Teaching)</a> 
       institution: Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
       year: 2019- 2021
@@ -53,7 +59,7 @@
 
 
 
-- title: Grants
+- title: Grants and Fundings
   type: time_table
   contents:
     - title: <a href="https://alliancecan.ca/en/funding-opportunities/dri-edia-champions-pilot-program">DRI EDIA Champions (35000 CAD)</a> 
