@@ -5,7 +5,7 @@ date: 2023-12-2 15:09:00
 description: Residual Stress
 tags: ResidualStress DFT FiniteElement 
 categories: sample-posts
-featured: false
+featured: true
 ---
 
 This code is in Fortran.
