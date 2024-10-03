@@ -124,7 +124,7 @@ permalink: /research/:year/:title/
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 related_blog_posts:
   enabled: false
