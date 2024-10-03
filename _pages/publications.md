@@ -25,28 +25,14 @@ nav_order: 1
 <div class="cv">
   <div class="card mt-3 p-3">
     <h3 class="card-title font-weight-medium">Softwares</h3>
-    <div>
-      <!-- Create the content using the same structure as cv.yml -->
-      <ul class="list-group">
-        <li class="list-group-item">
-          <strong>Name:</strong> Surftrack<br>
-          <strong>Description:</strong> Software for tracking waves and surf conditions.<br>
-          <a href="https://surftrack.com" target="_blank" class="software-link">Visit Surftrack</a>
-        </li>
-        <li class="list-group-item">
-          <strong>Name:</strong> pyMOOSE<br>
-          <strong>Description:</strong> Python-based software for simulating neuron models.<br>
-          <a href="https://pyMOOSE.com" target="_blank" class="software-link">Visit pyMOOSE</a>
-        </li>
-        <li class="list-group-item">
-          <strong>Name:</strong> Atom<br>
-          <strong>Description:</strong> A hackable text editor for modern programming.<br>
-          <a href="https://atom.io" target="_blank" class="software-link">Visit Atom</a>
-        </li>
-      </ul>
+    <div class="d-flex justify-content-between">
+      <a href="https://surftrack.com" target="_blank" class="software-link" style="color: inherit;">Surftrack</a>
+      <a href="https://pyMOOSE.com" target="_blank" class="software-link" style="color: inherit;">pyMOOSE</a>
+      <a href="https://atom.io" target="_blank" class="software-link" style="color: inherit;">Atom</a>
     </div>
   </div>
 </div>
+
 
 
 
