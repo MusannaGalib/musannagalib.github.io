@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /research/
-title: Featured research
-description: publications by categories in reversed chronological order. 
+title: research
+description: publications are in reverse chronological order for featured research
 nav: true
 nav_order: 1
 ---
