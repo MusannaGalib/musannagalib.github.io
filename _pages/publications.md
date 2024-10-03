@@ -24,7 +24,8 @@ nav_order: 1
   <div class="row">
     <div class="col-md-3">
       <!-- Thumbnail for the project -->
-      <img src="/assets/img/Alucone.jpeg" alt="Dendrite Inhibition" class="img-thumbnail">
+      <img src="/assets/img/Alucone.jpeg" alt="Dendrite Inhibition" class="img-thumbnail mb-2">
+      <img src="/assets/img/supercapacitor.jpeg" alt="Dendrite Inhibition - Experiment" class="img-thumbnail mb-2">
     </div>
     <div class="col-md-9">
       <!-- List of related publications -->
