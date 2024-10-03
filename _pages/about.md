@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Photo taken at Vancouver, British Columbia, Canada</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
@@ -26,6 +26,9 @@ For any query, suggestion, or collaboration, please contact: galibubc at student
 
 
 <!-- pages/projects.md -->
+<!-- Featured Research Section -->
+<h2>Featured Research</h2>
+
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
