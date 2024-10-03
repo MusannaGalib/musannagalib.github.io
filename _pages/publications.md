@@ -33,7 +33,8 @@ nav_order: 1
   </div>
 
     <!-- Supercapacitor Section -->
-  <h2>Supercapacitor</h2>
+  <h3 style="color: #007bff;">Supercapacitor</h3>
+  <p>This project focuses on the development and optimization of supercapacitors, a crucial technology for energy storage systems.</p>
   <div class="row">
     <div class="col-md-3">
       <!-- Thumbnail for the project -->
