@@ -20,52 +20,29 @@ nav_order: 1
 <div class="publications">
 
 
-<!-- Softwares Section -->
-<h2 class="section-title">Softwares</h2>
-
-<div class="software-list">
-  <!-- Software Item -->
-  <div class="software-item">
-    <a href="https://example-link-surftrack.com" class="software-link">Surftrack</a>
-  </div>
-
-  <div class="software-item">
-    <a href="https://example-link-pymoose.com" class="software-link">pyMOOSE</a>
-  </div>
-
-  <div class="software-item">
-    <a href="https://example-link-atom.com" class="software-link">Atom</a>
+<!-- Softwares Section in Publications.md -->
+<h2>Softwares</h2>
+<div class="cv">
+  <!-- Reuse the list style from CV -->
+  <div class="card mt-3 p-3">
+    <h3 class="card-title font-weight-medium">Softwares</h3>
+    <div>
+      <!-- Mimic the list structure from cv/list.html -->
+      <ul class="list-group">
+        <li class="list-group-item">
+          <a href="https://surftrack.com" target="_blank" class="software-link">Surftrack</a>
+        </li>
+        <li class="list-group-item">
+          <a href="https://pyMOOSE.com" target="_blank" class="software-link">pyMOOSE</a>
+        </li>
+        <li class="list-group-item">
+          <a href="https://atom.io" target="_blank" class="software-link">Atom</a>
+        </li>
+      </ul>
+    </div>
   </div>
 </div>
 
-<style>
-  .section-title {
-    font-size: 24px;
-    font-weight: bold;
-    margin-bottom: 20px;
-  }
-  
-  .software-list {
-    display: flex;
-    flex-wrap: wrap;
-  }
-
-  .software-item {
-    margin-right: 20px; /* Adds space between software items */
-    margin-bottom: 10px;
-  }
-
-  .software-link {
-    text-decoration: none;
-    font-size: 18px;
-    color: #000;
-    transition: color 0.3s;
-  }
-
-  .software-link:hover {
-    color: #007bff;
-  }
-</style>
 
 
 
