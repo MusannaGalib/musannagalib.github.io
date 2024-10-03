@@ -21,10 +21,10 @@ nav_order: 1
 
 
 <!-- Softwares Section in Publications.md -->
-<h2>Softwares</h2>
+<h3 style="color: #007bff;">Softwares</h3>
 <div class="cv">
   <div class="card mt-3 p-3">
-    <h3 class="card-title font-weight-medium">Softwares</h3>
+    <h3 class="card-title font-weight-medium"></h3>
     <div class="d-flex justify-content-between">
       <a href="https://surftrack.com" target="_blank" class="software-link" style="color: inherit;">Surftrack</a>
       <a href="https://pyMOOSE.com" target="_blank" class="software-link" style="color: inherit;">pyMOOSE</a>
