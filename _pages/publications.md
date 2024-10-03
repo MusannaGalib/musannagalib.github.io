@@ -26,7 +26,7 @@ nav_order: 1
     </div>
     <div class="col-md-9">
       <!-- List of related publications -->
-      {% bibliography -f {{ site.scholar.bibliography }} -q @*[project="Dendrite Inhibition"] %}
+      {% bibliography -f {{ site.scholar.bibliography }} -q @*[project="Supercapacitor"] %}
     </div>
   </div>
 
