@@ -23,25 +23,31 @@ nav_order: 1
 <!-- Softwares Section in Publications.md -->
 <h2>Softwares</h2>
 <div class="cv">
-  <!-- Reuse the list style from CV -->
   <div class="card mt-3 p-3">
     <h3 class="card-title font-weight-medium">Softwares</h3>
     <div>
-      <!-- Mimic the list structure from cv/list.html -->
+      <!-- Create the content using the same structure as cv.yml -->
       <ul class="list-group">
         <li class="list-group-item">
-          <a href="https://surftrack.com" target="_blank" class="software-link">Surftrack</a>
+          <strong>Name:</strong> Surftrack<br>
+          <strong>Description:</strong> Software for tracking waves and surf conditions.<br>
+          <a href="https://surftrack.com" target="_blank" class="software-link">Visit Surftrack</a>
         </li>
         <li class="list-group-item">
-          <a href="https://pyMOOSE.com" target="_blank" class="software-link">pyMOOSE</a>
+          <strong>Name:</strong> pyMOOSE<br>
+          <strong>Description:</strong> Python-based software for simulating neuron models.<br>
+          <a href="https://pyMOOSE.com" target="_blank" class="software-link">Visit pyMOOSE</a>
         </li>
         <li class="list-group-item">
-          <a href="https://atom.io" target="_blank" class="software-link">Atom</a>
+          <strong>Name:</strong> Atom<br>
+          <strong>Description:</strong> A hackable text editor for modern programming.<br>
+          <a href="https://atom.io" target="_blank" class="software-link">Visit Atom</a>
         </li>
       </ul>
     </div>
   </div>
 </div>
+
 
 
 
