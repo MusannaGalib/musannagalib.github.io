@@ -21,14 +21,14 @@ nav_order: 1
 
 
 <!-- Softwares Section in Publications.md -->
-<h3 style="color: #007bff;">Softwares</h3>
+<h3 style="color: #1785b6;">Softwares</h3>
 <div class="cv">
   <div class="card mt-3 p-3">
     <h3 class="card-title font-weight-medium"></h3>
     <div class="d-flex justify-content-between">
-      <a href="https://surftrack.com" target="_blank" class="software-link" style="color: inherit;">Surftrack</a>
-      <a href="https://pyMOOSE.com" target="_blank" class="software-link" style="color: inherit;">pyMOOSE</a>
-      <a href="https://atom.io" target="_blank" class="software-link" style="color: inherit;">Atom</a>
+      <a href="" target="_blank" class="software-link" style="color: inherit;">Surftrack</a>
+      <a href="" target="_blank" class="software-link" style="color: inherit;">pyMOOSE</a>
+      <a href="" target="_blank" class="software-link" style="color: inherit;">Atom</a>
     </div>
   </div>
 </div>
@@ -39,7 +39,7 @@ nav_order: 1
 
 
 <!-- Dendrite Inhibition Section -->
-  <h3 style="color: #007bff;">Dendrite Inhibition</h3>
+  <h3 style="color: #1785b6;">Dendrite Inhibition</h3>
   <div class="row">
     <div class="col-md-3">
       <!-- Thumbnail for the project -->
@@ -54,7 +54,7 @@ nav_order: 1
 
 
     <!-- Supercapacitor Section -->
-  <h3 style="color: #007bff;">Supercapacitor</h3>
+  <h3 style="color: #1785b6;">Supercapacitor</h3>
   <p>This project focuses on the development and optimization of supercapacitors, a crucial technology for energy storage systems.</p>
   <div class="row">
     <div class="col-md-3">
