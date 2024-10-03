@@ -21,7 +21,7 @@ nav_order: 1
 
 
 <!-- Softwares Section in Publications.md -->
-<h3 style="color: #1785b6;">Softwares</h3>
+<h3 style="color: #1785b6;">Research Softwares</h3>
 <div class="cv">
   <div class="card mt-3 p-3">
     <h3 class="card-title font-weight-medium"></h3>
@@ -40,11 +40,11 @@ nav_order: 1
 
 <!-- Dendrite Inhibition Section -->
   <h3 style="color: #1785b6;">Dendrite Inhibition</h3>
+  <p>This project focuses on solving one of the biggest bottlenecks of rechargeable metal batteries: short-circuiting</p>
   <div class="row">
     <div class="col-md-3">
       <!-- Thumbnail for the project -->
       <img src="/assets/img/Alucone.jpeg" alt="Dendrite Inhibition" class="img-thumbnail mb-2">
-      <img src="/assets/img/supercapacitor.jpeg" alt="Dendrite Inhibition - Experiment" class="img-thumbnail mb-2">
     </div>
     <div class="col-md-9">
       <!-- List of related publications -->
