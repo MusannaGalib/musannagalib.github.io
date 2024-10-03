@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /research/
+title: research
 description: publications by categories in reversed chronological order. 
 nav: true
 nav_order: 1
@@ -9,11 +9,13 @@ nav_order: 1
 
 
 <!-- _pages/publications.md -->
+{% comment %}
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
+{% endcomment %}
 
 <div class="publications">
 
