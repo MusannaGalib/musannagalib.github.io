@@ -46,7 +46,7 @@ nav_order: 1
 <div class="row">
   <div class="col-md-3">
     <!-- Thumbnail for the project -->
-    <img src="/assets/img/Alucone.jpeg" alt="Dendrite Inhibition" class="img-thumbnail mb-2">
+    <img src="/assets/img/Alucone.jpeg" alt="Dendrite Inhibition" class="img-thumbnail mb-2" style="width: 100%; height: auto;">
   </div>
   <div class="col-md-9">
     <!-- List of related publications -->
@@ -54,20 +54,22 @@ nav_order: 1
   </div>
 </div>
 
-<!-- Video Section -->
+<!-- Video Section (same size as the image) -->
 <div class="row mt-3">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include video.html path="https://www.youtube.com/embed/4Q30xnX-hcc?si=nMsWbI9-BakjvUfX" class="img-fluid rounded z-depth-1" %}
+  <div class="col-md-3">
+    <iframe src="https://www.youtube.com/embed/4Q30xnX-hcc?si=nMsWbI9-BakjvUfX" class="img-fluid img-thumbnail mb-2" style="width: 100%; height: auto; border: none;" allowfullscreen></iframe>
   </div>
 </div>
 
-<!-- Twitter Section -->
+<!-- Twitter Section (same size as the image) -->
 <div class="row mt-3">
-  <div class="col-sm">
-    <h4>Tweet</h4>
-    {% twitter https://twitter.com/galib_musanna/status/1624818564128710656 %}
+  <div class="col-md-3">
+    <div class="img-thumbnail mb-2" style="width: 100%; height: auto;">
+      {% twitter https://twitter.com/galib_musanna/status/1624818564128710656 %}
+    </div>
   </div>
 </div>
+
 
 
 
