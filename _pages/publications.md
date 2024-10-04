@@ -39,18 +39,36 @@ nav_order: 1
 
 
 <!-- Dendrite Inhibition Section -->
-  <h3 style="color: #1785b6;">Dendrite Inhibition</h3>
-  <p>This project focuses on solving one of the biggest bottlenecks of rechargeable metal batteries: short-circuiting</p>
-  <div class="row">
-    <div class="col-md-3">
-      <!-- Thumbnail for the project -->
-      <img src="/assets/img/Alucone.jpeg" alt="Dendrite Inhibition" class="img-thumbnail mb-2">
-    </div>
-    <div class="col-md-9">
-      <!-- List of related publications -->
-          {% bibliography -f {{ site.scholar.bibliography }} -q @*[project=Dendrite] %}
-    </div>
-  </div> 
+<h3 style="color: #1785b6;">Dendrite Inhibition</h3>
+<p>This project focuses on solving one of the biggest bottlenecks of rechargeable metal batteries: short-circuiting.</p>
+
+<!-- Image and Publications Section -->
+<div class="row">
+  <div class="col-md-3">
+    <!-- Thumbnail for the project -->
+    <img src="/assets/img/Alucone.jpeg" alt="Dendrite Inhibition" class="img-thumbnail mb-2">
+  </div>
+  <div class="col-md-9">
+    <!-- List of related publications -->
+    {% bibliography -f {{ site.scholar.bibliography }} -q @*[project=Dendrite] %}
+  </div>
+</div>
+
+<!-- Video Section -->
+<div class="row mt-3">
+  <div class="col-sm mt-3 mt-md-0">
+    {% include video.html path="https://www.youtube.com/embed/4Q30xnX-hcc?si=nMsWbI9-BakjvUfX" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
+<!-- Twitter Section -->
+<div class="row mt-3">
+  <div class="col-sm">
+    <h4>Tweet</h4>
+    {% twitter https://twitter.com/galib_musanna/status/1624818564128710656 %}
+  </div>
+</div>
+
 
 
     <!-- Supercapacitor Section -->
