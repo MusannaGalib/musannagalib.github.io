@@ -366,16 +366,19 @@ blockquote {
       }
 
       i.ai-orcid {
-        fill: #A6CE39; // Custom color for the ORCID icon
+        color: #A6CE39; // Custom color for the ORCID icon
       }
 
       i.ai-google-scholar {
         color: #4285F4; // Custom color for Google Scholar icon
       }
 
+
       i.ai-researchgate {
-        color: #00CCBB; // Custom color for ResearchGate icon
-      }
+  background-color: #00CCBB; /* Custom background color */
+  padding: 5px; /* Add some padding to make the background color visible */
+  border-radius: 50%; /* Optional: Makes the background a circle */
+}
 
       i.fa-github {
         color: #181717; // Custom color for GitHub icon
