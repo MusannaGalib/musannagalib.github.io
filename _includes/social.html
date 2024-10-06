@@ -1,14 +1,10 @@
-<style>
-.custom-icon {
-    color: #D44638 !important; /* Custom color for icon */
-}
-</style>
 
-{%- if site.email -%}
+
 <a href="mailto:{{ site.email | encode_email }}" title="email">
-    <i class="fa-solid fa-envelope custom-icon"></i>
+    <svg xmlns="http://www.w3.org/2000/svg" fill="#D44638" viewBox="0 0 24 24" width="24" height="24">
+        <path d="M12 13.5l-12 7.5V3l12 7.5L24 3v17.25l-12-7.5z"/>
+    </svg>
 </a>
-{% endif %}
 
 
 {%- if site.telegram_username -%}
