@@ -347,7 +347,6 @@ blockquote {
 }
 
 // Social (bottom)
-
 .social {
   text-align: center;
 
@@ -360,35 +359,6 @@ blockquote {
         transition-property: all 0.2s ease-in-out;
       }
 
-      // Specific styles for the individual icons
-      &.fa-envelope {
-        color: #D44638; // Custom color for the email icon
-      }
-
-      &.ai-orcid {
-        color: #A6CE39; // Custom color for the ORCID icon
-      }
-
-      &.ai-google-scholar {
-        color: #4285F4; // Custom color for Google Scholar icon
-      }
-
-      &.ai-researchgate {
-        color: #00CCBB; // Custom color for ResearchGate icon
-      }
-
-      &.fa-github {
-        color: #181717; // Custom color for GitHub icon
-      }
-
-      &.fa-linkedin {
-        color: #0077B5; // Custom color for LinkedIn icon
-      }
-
-      &.fa-x-twitter {
-        color: #1DA1F2; // Custom color for Twitter icon
-      }
-
       &:hover {
         i::before {
           color: var(--global-theme-color);
@@ -396,6 +366,7 @@ blockquote {
       }
     }
   }
+
 
   // General link styles
   a {
