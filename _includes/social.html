@@ -1,12 +1,8 @@
 
 
-<a href="mailto:{{ site.email | encode_email }}" title="email">
-    <svg xmlns="http://www.w3.org/2000/svg" fill="#D44638" viewBox="0 0 24 24" width="24" height="24">
-        <path d="M12 13.5l-12 7.5V3l12 7.5L24 3v17.25l-12-7.5z"/>
-    </svg>
-</a>
-
-
+{%- if site.email -%}
+<a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
+{% endif %}
 {%- if site.telegram_username -%}
 <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram" style="color: #0088cc;"><i class="fa-brands fa-telegram"></i></a>
 {% endif %}
