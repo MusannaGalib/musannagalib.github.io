@@ -373,12 +373,10 @@ blockquote {
         color: #4285F4; // Custom color for Google Scholar icon
       }
 
-      i.ai-researchgate {
-        color: #00CCBB; // Custom color for ResearchGate icon
-        background-color: #00CCBB; /* Custom background color */
-        padding: 5px; /* Add some padding to make the background color visible */
-        border-radius: 50%; /* Optional: Makes the background a circle */
-     }
+.social .contact-icons a i.ai-researchgate {
+  color: #00CCBB !important;
+}
+
 
       i.fa-github {
         color: #181717; // Custom color for GitHub icon
