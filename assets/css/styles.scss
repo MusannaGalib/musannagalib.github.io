@@ -1,36 +1,28 @@
-/* GitHub icon */
-.fa-github {
-    color: #333; /* GitHub's brand color */
+/* Ensure you are targeting the icons correctly using the parent .social class */
+.social i.fa-envelope {
+    color: #D44638 !important; /* Email - Gmail red */
 }
 
-/* Twitter (X) icon */
-.fa-x-twitter {
-    color: #1DA1F2; /* Twitter's brand color */
+.social i.ai-orcid {
+    color: #A6CE39 !important; /* ORCID green */
 }
 
-/* LinkedIn icon */
-.fa-linkedin {
-    color: #0077B5; /* LinkedIn's brand color */
+.social i.ai-google-scholar {
+    color: #4285F4 !important; /* Google Scholar blue */
 }
 
-/* Google Scholar icon */
-.fa-google-scholar {
-    color: #4D90FE; /* Google Scholar color */
+.social i.ai-researchgate {
+    color: #00CCBB !important; /* ResearchGate teal */
 }
 
-/* ResearchGate icon */
-.fa-researchgate {
-    color: #00CCBB; /* ResearchGate color */
-}
-/* Use more specific selectors */
-a .fa-github {
-    color: #181717 !important;  /* GitHub's official color */
+.social i.fa-github {
+    color: #181717 !important; /* GitHub black */
 }
 
-a .fa-linkedin {
-    color: #0077B5 !important;  /* LinkedIn's official color */
+.social i.fa-linkedin {
+    color: #0077B5 !important; /* LinkedIn blue */
 }
 
-a .fa-twitter {
-    color: #1DA1F2 !important;  /* Twitter's official color */
+.social i.fa-x-twitter {
+    color: #1DA1F2 !important; /* X (Twitter) blue */
 }
