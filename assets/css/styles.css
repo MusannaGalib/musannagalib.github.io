@@ -1,30 +1,39 @@
+/* Remove the temporary debugging border */
 .social a i {
-    border: 2px solid red !important; /* Temporary debugging */
+    border: none !important;
 }
+
+/* Gmail */
 .social .contact-icons a[href*="mailto"] i {
-    color: #D44638 !important; /* Gmail */
+    color: #D44638 !important;
 }
 
+/* ORCID */
 .social .contact-icons a[href*="orcid.org"] i {
-    color: #A6CE39 !important; /* ORCID */
+    color: #A6CE39 !important;
 }
 
+/* Google Scholar */
 .social .contact-icons a[href*="scholar.google.com"] i {
-    color: #4285F4 !important; /* Google Scholar */
+    color: #4285F4 !important;
 }
 
+/* ResearchGate */
 .social .contact-icons a[href*="researchgate.net"] i {
-    color: #00CCBB !important; /* ResearchGate */
+    color: #00CCBB !important;
 }
 
+/* GitHub */
 .social .contact-icons a[href*="github.com"] i {
-    color: #181717 !important; /* GitHub */
+    color: #181717 !important;
 }
 
+/* LinkedIn */
 .social .contact-icons a[href*="linkedin.com"] i {
-    color: #0077B5 !important; /* LinkedIn */
+    color: #0077B5 !important;
 }
 
+/* X (formerly Twitter) */
 .social .contact-icons a[href*="twitter.com"], .social .contact-icons a[href*="x.com"] i {
-    color: #1DA1F2 !important; /* X (Twitter) */
+    color: #1DA1F2 !important;
 }
