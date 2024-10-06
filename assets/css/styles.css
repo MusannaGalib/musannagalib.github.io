@@ -1,4 +1,8 @@
-/* Make the selectors more specific */
+/* Increase specificity further */
+.social .contact-icons a i {
+    color: inherit !important; /* This allows the color to inherit */
+}
+
 .social .contact-icons a[href*="mailto"] i {
     color: #D44638 !important; /* Gmail */
 }
