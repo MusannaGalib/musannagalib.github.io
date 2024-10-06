@@ -362,7 +362,7 @@ blockquote {
 
            // Specific styles for the individual icons targeting the <i> tag directly
       i.fa-envelope {
-        color: #D44638; // Custom color for the email icon
+        color: #D44638 !important; // Custom color for the email icon
       }
 
       i.ai-orcid {
