@@ -385,7 +385,7 @@ blockquote {
 
 .fa-github::before,
 .fa-github {
-    color: #ffffff !important; /* Custom color for GitHub icon */
+    color: #fbf7f5 !important; /* Custom color for GitHub icon */
 }
 
 .fa-linkedin::before,
@@ -414,7 +414,7 @@ blockquote {
       
       &:hover i {
         color: var(--global-theme-color) !important; /* Change to global theme color on hover */
-      }
+      
       }
     }
   }
