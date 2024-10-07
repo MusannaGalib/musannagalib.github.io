@@ -399,16 +399,16 @@ blockquote {
 }
 
 
-/* Ensure that no other styles override this */
-.social .contact-icons a i::before {
-    color: unset !important; /* Resets any inheritance */
-    transition-property: all 0.2s ease-in-out;
-}
+ /* Ensure no other styles override this */
+  .social .contact-icons a i,
+  .social .contact-icons a i::before {
+      color: unset !important; /* Reset any inherited styles */
+  }
 
-/* Hover effect */
-.social .contact-icons a:hover i::before {
-    color: var(--global-theme-color) !important;
-}
+  /* Add hover effect for all icons */
+  .social .contact-icons a:hover i::before {
+      color: var(--global-theme-color) !important; /* Change on hover */
+  }
 
 
       
