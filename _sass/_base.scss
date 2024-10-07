@@ -363,8 +363,8 @@ blockquote {
   
 
 /* Custom colors for each specific icon */
-.social .contact-icons a i.fa-envelope::before,
-.social .contact-icons a i.fa-envelope {
+.fa-envelope::before,
+.fa-envelope {
     color: #D44638 !important; /* Custom color for the email icon */
 }
 
