@@ -360,35 +360,34 @@ blockquote {
         transition-property: all 0.2s ease-in-out;
       }
 
-           // Specific styles for the individual icons targeting the <i> tag directly
-      i.fa-envelope {
-        color: #D44638 !important; // Custom color for the email icon
-      }
-
-      i.ai-orcid {
-        color: #A6CE39; // Custom color for the ORCID icon
-      }
-
-      i.ai-google-scholar {
-        color: #4285F4; // Custom color for Google Scholar icon
-      }
-
-.social .contact-icons a i.ai-researchgate {
-  color: #00CCBB !important;
+     .social .contact-icons a i.fa-envelope {
+    color: #D44638 !important; // Custom color for the email icon
 }
 
+.social .contact-icons a i.ai-orcid {
+    color: #A6CE39 !important; // Custom color for the ORCID icon
+}
 
-      i.fa-github {
-        color: #181717; // Custom color for GitHub icon
-      }
+.social .contact-icons a i.ai-google-scholar {
+    color: #4285F4 !important; // Custom color for Google Scholar icon
+}
 
-      i.fa-linkedin {
-        color: #0077B5; // Custom color for LinkedIn icon
-      }
+.social .contact-icons a i.ai-researchgate {
+    color: #00CCBB !important; // Custom color for ResearchGate icon
+}
 
-      i.fa-x-twitter {
-        color: #1DA1F2; // Custom color for Twitter icon
-      }
+.social .contact-icons a i.fa-github {
+    color: #181717 !important; // Custom color for GitHub icon
+}
+
+.social .contact-icons a i.fa-linkedin {
+    color: #0077B5 !important; // Custom color for LinkedIn icon
+}
+
+.social .contact-icons a i.fa-x-twitter {
+    color: #1DA1F2 !important; // Custom color for Twitter icon
+}
+
       
       &:hover {
         i::before {
