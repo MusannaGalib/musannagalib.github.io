@@ -385,7 +385,7 @@ blockquote {
 
 .fa-github::before,
 .fa-github {
-    color: #fbf7f5 !important; /* Custom color for GitHub icon */
+    color: #353935 !important; /* Custom color for GitHub icon */
 }
 
 .fa-linkedin::before,
@@ -425,7 +425,7 @@ blockquote {
     transition: opacity 0.3s ease; // Smooth transition for opacity
 
     &:hover {
-      opacity: 0.7; // Slightly fade links on hover
+      opacity: 0.5; // Slightly fade links on hover
     }
   }
 
