@@ -360,33 +360,48 @@ blockquote {
         transition-property: all 0.2s ease-in-out;
       }
 
-     .social .contact-icons a i.fa-envelope {
-    color: #D44638 !important; // Custom color for the email icon
+    /* Target the icon itself */
+.social .contact-icons a i,
+.social .contact-icons a i::before {
+    color: inherit !important; /* inherit the color from parent */
 }
 
+/* Custom colors for each specific icon */
+.social .contact-icons a i.fa-envelope::before,
+.social .contact-icons a i.fa-envelope {
+    color: #D44638 !important; /* Custom color for the email icon */
+}
+
+.social .contact-icons a i.ai-orcid::before,
 .social .contact-icons a i.ai-orcid {
-    color: #A6CE39 !important; // Custom color for the ORCID icon
+    color: #A6CE39 !important; /* Custom color for the ORCID icon */
 }
 
+.social .contact-icons a i.ai-google-scholar::before,
 .social .contact-icons a i.ai-google-scholar {
-    color: #4285F4 !important; // Custom color for Google Scholar icon
+    color: #4285F4 !important; /* Custom color for Google Scholar icon */
 }
 
+.social .contact-icons a i.ai-researchgate::before,
 .social .contact-icons a i.ai-researchgate {
-    color: #00CCBB !important; // Custom color for ResearchGate icon
+    color: #00CCBB !important; /* Custom color for ResearchGate icon */
 }
 
+.social .contact-icons a i.fa-github::before,
 .social .contact-icons a i.fa-github {
-    color: #181717 !important; // Custom color for GitHub icon
+    color: #181717 !important; /* Custom color for GitHub icon */
 }
 
+.social .contact-icons a i.fa-linkedin::before,
 .social .contact-icons a i.fa-linkedin {
-    color: #0077B5 !important; // Custom color for LinkedIn icon
+    color: #0077B5 !important; /* Custom color for LinkedIn icon */
 }
 
+.social .contact-icons a i.fa-x-twitter::before,
 .social .contact-icons a i.fa-x-twitter {
-    color: #1DA1F2 !important; // Custom color for Twitter icon
+    color: #1DA1F2 !important; /* Custom color for Twitter icon */
 }
+
 
       
       &:hover {
