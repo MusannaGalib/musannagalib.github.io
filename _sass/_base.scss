@@ -398,10 +398,16 @@ blockquote {
     color: #1DA1F2 !important; /* Custom color for Twitter icon */
 }
 
-      /* Remove any global overriding styles */
+
+/* Ensure that no other styles override this */
 .social .contact-icons a i::before {
-    color: initial !important; /* Use initial instead of inherit */
+    color: unset !important; /* Resets any inheritance */
     transition-property: all 0.2s ease-in-out;
+}
+
+/* Hover effect */
+.social .contact-icons a:hover i::before {
+    color: var(--global-theme-color) !important;
 }
 
 
