@@ -361,10 +361,9 @@ blockquote {
       }
 
     /* Target the icon itself */
-.social .contact-icons a i,
-.social .contact-icons a i::before {
-    color: inherit !important; /* inherit the color from parent */
-}
+  .social .contact-icons a i::before {
+    color: inherit !important; /* To stop inheriting parent color */
+}    
 
 /* Custom colors for each specific icon */
 .social .contact-icons a i.fa-envelope::before,
@@ -374,7 +373,7 @@ blockquote {
 
 .social .contact-icons a i.ai-orcid::before,
 .social .contact-icons a i.ai-orcid {
-    color: red !important; /* Custom color for the ORCID icon */
+    color: #A6CE39  !important; /* Custom color for the ORCID icon */
 }
 
 .social .contact-icons a i.ai-google-scholar::before,
