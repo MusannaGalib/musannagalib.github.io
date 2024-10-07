@@ -426,6 +426,8 @@ blockquote {
 
     &:hover {
       opacity: 0.5; // Slightly fade links on hover
+      color: var(--global-theme-color) !important; /* Change to global theme color on hover */
+
     }
   }
 
