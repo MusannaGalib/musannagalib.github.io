@@ -360,10 +360,7 @@ blockquote {
         transition-property: all 0.2s ease-in-out;
       }
 
-    /* Target the icon itself */
-  .social .contact-icons a i::before {
-    color: inherit !important; /* To stop inheriting parent color */
-}    
+  
 
 /* Custom colors for each specific icon */
 .social .contact-icons a i.fa-envelope::before,
@@ -399,6 +396,12 @@ blockquote {
 .social .contact-icons a i.fa-x-twitter::before,
 .social .contact-icons a i.fa-x-twitter {
     color: #1DA1F2 !important; /* Custom color for Twitter icon */
+}
+
+      /* Remove any global overriding styles */
+.social .contact-icons a i::before {
+    color: initial !important; /* Use initial instead of inherit */
+    transition-property: all 0.2s ease-in-out;
 }
 
 
