@@ -412,10 +412,9 @@ blockquote {
 
 
       
-      &:hover {
-        i::before {
-          color: var(--global-theme-color);
-        }
+      &:hover i {
+        color: var(--global-theme-color) !important; /* Change to global theme color on hover */
+      }
       }
     }
   }
