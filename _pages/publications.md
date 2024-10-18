@@ -41,7 +41,7 @@ nav_order: 1
 <!-- Dendrite Inhibition Section -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <h3 style="color: #1785b6;">Dendrite Inhibition</h3>
-  <span style="background-color: #d221d3; color: white; padding: 5px 10px; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);">2020 - 2025</span>
+  <span style="background-color: #6a0dad; color: white; padding: 5px 10px; border-radius: 0; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); font-weight: bold;">2021 - 2025</span>
 </div>
 <p>This project focuses on solving one of the biggest bottlenecks of rechargeable metal batteries: short-circuiting.</p>
 
@@ -67,7 +67,7 @@ nav_order: 1
     <!-- Supercapacitor Section -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <h3 style="color: #1785b6;">Supercapacitor</h3>
-  <span style="background-color: #d221d3; color: white; padding: 5px 10px; border-radius: 10px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2);">2019 - 2024</span>
+    <span style="background-color: #6a0dad; color: white; padding: 5px 10px; border-radius: 0; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); font-weight: bold;">2019 - 2024</span>
 </div>    
   <p>This project focuses on the development and optimization of supercapacitors, a crucial technology for energy storage systems.</p>
   <div class="row">
