@@ -39,7 +39,10 @@ nav_order: 1
 
 
 <!-- Dendrite Inhibition Section -->
-<h3 style="color: #1785b6;">Dendrite Inhibition</h3>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h3 style="color: #1785b6;">Dendrite Inhibition</h3>
+  <h3 style="color: #1785b6; font-weight: normal;">2020 - 2025</h3>
+</div>
 <p>This project focuses on solving one of the biggest bottlenecks of rechargeable metal batteries: short-circuiting.</p>
 
 <!-- Image and Video Section -->
