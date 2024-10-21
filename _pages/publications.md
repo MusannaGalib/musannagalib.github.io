@@ -49,7 +49,8 @@ nav_order: 1
 <div class="row">
   <div class="col-md-3">
     <!-- Thumbnail for the project -->
-    <img src="/assets/img/Alucone.jpeg" alt="Dendrite Inhibition" class="img-thumbnail mb-2" style="width: 100%; height: auto;">
+        <img src="/assets/img/NASICON_AZIB.jpg" alt="Dendrite Inhibition" class="img-thumbnail mb-2" style="width: 100%; height: auto;">
+        <img src="/assets/img/Alucone.jpeg" alt="Dendrite Inhibition" class="img-thumbnail mb-2" style="width: 100%; height: auto;">
     
     <!-- Video embedded just after the image -->
     <iframe src="https://www.youtube.com/embed/4Q30xnX-hcc?si=nMsWbI9-BakjvUfX" class="img-fluid img-thumbnail mb-2" style="width: 100%; height: auto; border: none;" allowfullscreen></iframe>
