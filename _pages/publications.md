@@ -27,7 +27,7 @@ nav_order: 1
     <h3 class="card-title font-weight-medium"></h3>
     <div class="d-flex justify-content-between">
       <a href="" target="_blank" class="software-link" style="color: inherit;">Surftrack</a>
-      <a href="" target="_blank" class="software-link" style="color: inherit;">pyMOOSE</a>
+      <a href="" target="_blank" class="software-link" style="color: inherit;">MOOSEanalyze</a>
       <a href="" target="_blank" class="software-link" style="color: inherit;">pyVASPNN</a>
     </div>
   </div>
