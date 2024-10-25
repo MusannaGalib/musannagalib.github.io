@@ -42,13 +42,7 @@ nav_order: 1
 </div>
 <p>This project focuses on developing machine learning interatomic potential, especially using an equivariant graph neural network.</p>
 
-<!-- Image and Video Section -->
-<div class="row">
-  <div class="col-md-9">
-    <!-- List of related publications -->
-    Understanding the spalling behavior of alumina: A combined high-fidelity informed molecular dynamics and dual-pulse laser-induced femtosecond experiment approach
-  </div>
-</div>
+
 
 
 <!-- Dendrite Inhibition Section -->
