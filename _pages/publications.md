@@ -35,7 +35,20 @@ nav_order: 1
 
 
 
+<!-- Dendrite Inhibition Section -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h3 style="color: #1785b6;">Interatomic Potential</h3>
+  <span style="background-color: #6a0dad; color: white; padding: 5px 10px; border-radius: 0; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); font-weight: bold;">2023 - 2025</span>
+</div>
+<p>This project focuses on developing machine learning interatomic potential, especially using an equivariant graph neural network.</p>
 
+<!-- Image and Video Section -->
+<div class="row">
+  <div class="col-md-9">
+    <!-- List of related publications -->
+    Understanding the spalling behavior of alumina: A combined high-fidelity informed molecular dynamics and dual-pulse laser-induced femtosecond experiment approach
+  </div>
+</div>
 
 
 <!-- Dendrite Inhibition Section -->
