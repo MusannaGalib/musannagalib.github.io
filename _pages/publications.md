@@ -26,9 +26,9 @@ nav_order: 1
   <div class="card mt-3 p-3">
     <h3 class="card-title font-weight-medium"></h3>
     <div class="d-flex justify-content-between">
+      <a href="" target="https://github.com/MusannaGalib/AtomProNet" class="software-link" style="color: inherit;">AtomProNet</a>
       <a href="" target="_blank" class="software-link" style="color: inherit;">SurfTrack</a>
       <a href="" target="_blank" class="software-link" style="color: inherit;">MOOSEanalyze</a>
-      <a href="" target="_blank" class="software-link" style="color: inherit;">pyVASPNN</a>
     </div>
   </div>
 </div>
