@@ -28,8 +28,10 @@ nav_order: 1
     <div class="d-flex justify-content-between">
       <a href="https://github.com/MusannaGalib/AtomProNet" target="_blank" class="software-link" style="color: inherit; text-decoration: none;"                 
         onmouseover="this.style.color='#1785b6'"  onmouseout="this.style.color='inherit'"> AtomProNet </a>
-      <a href="" target="_blank" class="software-link" style="color: inherit;">SurfTrack</a>
-      <a href="" target="_blank" class="software-link" style="color: inherit;">MOOSEanalyze</a>
+      <a href="https://github.com/MusannaGalib/SurfTrack" target="_blank" class="software-link" style="color: inherit; text-decoration: none;"                 
+        onmouseover="this.style.color='#1785b6'"  onmouseout="this.style.color='inherit'"> SurfTrack </a>
+      <a href="https://github.com/MusannaGalib/MOOSEanalyze" target="_blank" class="software-link" style="color: inherit; text-decoration: none;"                 
+        onmouseover="this.style.color='#1785b6'"  onmouseout="this.style.color='inherit'"> MOOSEanalyze </a>
     </div>
   </div>
 </div>
