@@ -52,7 +52,7 @@ nav_order: 1
         <img src="" alt="MLIP" class="img-thumbnail mb-2" style="width: 100%; height: auto;">
     
     <!-- Video embedded just after the image -->
-    <iframe src="https://www.youtube.com/watch?v=na10M4NbdfM" class="img-fluid img-thumbnail mb-2" style="width: 100%; height: auto; border: none;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/na10M4NbdfM?si=IlZPI74UwWkq8r3r" class="img-fluid img-thumbnail mb-2" style="width: 100%; height: auto; border: none;" allowfullscreen></iframe>
     
     
   </div>
