@@ -1163,3 +1163,14 @@ table.table-cv, table.table-cv td, table.table-cv th { color: var(--global-text-
   text-transform: uppercase;
   margin-top: -0.4rem;
 }
+
+// Phones: the year label overlapped the first paper title (negative margin); give it its own line
+@media (max-width: 767.98px) {
+  .publications h2.bibliography {
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+  }
+  .publications .project-figure {
+    max-width: 220px;
+  }
+}
