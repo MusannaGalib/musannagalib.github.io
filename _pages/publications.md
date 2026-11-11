@@ -36,7 +36,7 @@ nav_order: 1
   <h3>Interatomic Potentials for Materials Science</h3>
   <span class="period">2023 – 2025</span>
 </div>
-<p>Machine-learning interatomic potentials, built on equivariant graph neural networks. <a href="https://www.youtube.com/watch?v=na10M4NbdfM">Talk (video) ↗</a></p>
+<p>Machine-learning interatomic potentials, built on equivariant graph neural networks. <a href="https://www.youtube.com/watch?v=na10M4NbdfM">Watch the talk</a></p>
 <div class="row">
   <div class="col-md-3">
     <a href="https://github.com/MusannaGalib/AtomProNet"><img src="/assets/img/AtomProNet_logo.jpg" alt="AtomProNet logo" class="project-figure project-logo"></a>
@@ -50,7 +50,7 @@ nav_order: 1
   <h3>Dendrite Inhibition</h3>
   <span class="period">2021 – 2025</span>
 </div>
-<p>Suppressing dendrite-driven short circuits in rechargeable metal batteries. <a href="https://www.youtube.com/watch?v=4Q30xnX-hcc">Talk (video) ↗</a></p>
+<p>Suppressing dendrite-driven short circuits in rechargeable metal batteries. <a href="https://www.youtube.com/watch?v=4Q30xnX-hcc">Watch the talk</a></p>
 <div class="row">
   <div class="col-md-3">
     <img src="/assets/img/NASICON_AZIB.jpg" alt="NASICON cathode for aqueous zinc-ion batteries" class="project-figure">

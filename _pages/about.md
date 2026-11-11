@@ -15,7 +15,7 @@ latest_posts: false  # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
 ---
 
-Musanna Galib is a Postdoctoral Appointee with the Energy Storage Research Alliance at Argonne National Laboratory, where he builds the [ESRA Data Platform](https://data.energystoragera.org/data). It is built for ESRA's roughly 200 researchers in 39 research groups and covers 26 techniques in six families: electrochemistry, spectroscopy, scattering, imaging, computation, and chemical analysis. He works on scientific data infrastructure and agentic analysis for energy storage research.
+Musanna Galib is a Postdoctoral Appointee with the Energy Storage Research Alliance at Argonne National Laboratory, where he builds the [ESRA Data Platform](https://data.energystoragera.org/data): one system for roughly 200 researchers, 39 research groups, and 26 techniques. He works on scientific data infrastructure and agentic analysis for energy storage research.
 
 His research interests encompass exploring the core mechanisms that emerge in materials under different conditions using multiscale modeling and experiments. This work exists at the intersection of mechanics of materials, materials science, and electrochemical phenomena.
 
