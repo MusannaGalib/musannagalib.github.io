@@ -2,109 +2,85 @@
 layout: page
 permalink: /research/
 title: research
-description: publications are in reverse chronological order for featured research
+description: Selected projects and publications.
 nav: true
 nav_order: 1
 ---
 
-
-<!-- _pages/publications.md -->
-{% comment %}
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+<h3>Software</h3>
+<p class="software-line">
+  <a href="https://github.com/MusannaGalib/AtomProNet">AtomProNet</a> ·
+  <a href="https://github.com/MusannaGalib/SurfTrack">SurfTrack</a> ·
+  <a href="https://github.com/MusannaGalib/MOOSEanalyze">MOOSEanalyze</a> ·
+  <a href="https://data.energystoragera.org/data">ESRA Data Platform</a>
+</p>
 
+<div class="project-head">
+  <h3>FAIR Data Infrastructure for Energy Storage</h3>
+  <span class="period">2026 – present</span>
 </div>
-{% endcomment %}
-
-<div class="publications">
-
-
-<!-- Softwares Section in Publications.md -->
-<h3 style="color: #1785b6;">Research Softwares</h3>
-<div class="cv">
-  <div class="card mt-3 p-3">
-    <h3 class="card-title font-weight-medium"></h3>
-    <div class="d-flex justify-content-between">
-      <a href="https://github.com/MusannaGalib/AtomProNet" target="_blank" class="software-link" style="color: inherit; text-decoration: none;"                 
-        onmouseover="this.style.color='#1785b6'"  onmouseout="this.style.color='inherit'"> AtomProNet </a>
-      <a href="https://github.com/MusannaGalib/SurfTrack" target="_blank" class="software-link" style="color: inherit; text-decoration: none;"                 
-        onmouseover="this.style.color='#1785b6'"  onmouseout="this.style.color='inherit'"> SurfTrack </a>
-      <a href="https://github.com/MusannaGalib/MOOSEanalyze" target="_blank" class="software-link" style="color: inherit; text-decoration: none;"                 
-        onmouseover="this.style.color='#1785b6'"  onmouseout="this.style.color='inherit'"> MOOSEanalyze </a>
-    </div>
-  </div>
-</div>
-
-
-
-<!-- Dendrite Inhibition Section -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h3 style="color: #1785b6;">Interatomic Potential for Materials Science</h3>
-  <span style="background-color: #6a0dad; color: white; padding: 5px 10px; border-radius: 0; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); font-weight: bold;">2023 - 2025</span>
-</div>
-<p>This project focuses on developing machine learning interatomic potential, especially using an equivariant graph neural network.</p>
-
-<!-- Image and Video Section -->
+<p>The <a href="https://data.energystoragera.org/data">ESRA Data Platform</a> at Argonne National Laboratory, built end to end: data ingestion and a FAIR (findable, accessible, interoperable, reusable) catalog, a web interface, an MCP server that connects the catalog to AI assistants, and analysis agents that turn raw instrument files into audited, traceable results.</p>
+<p class="stack">Backend · Frontend · DevOps · MCP server · Data catalog · Analysis agents · Audit trails</p>
 <div class="row">
   <div class="col-md-3">
-    <!-- Thumbnail for the project -->
-        <img src="" alt="MLIP" class="img-thumbnail mb-2" style="width: 100%; height: auto;">
-    
-    <!-- Video embedded just after the image -->
-    <iframe src="https://www.youtube.com/embed/na10M4NbdfM?si=IlZPI74UwWkq8r3r" class="img-fluid img-thumbnail mb-2" style="width: 100%; height: auto; border: none;" allowfullscreen></iframe>
-    
-    
+    <a href="https://data.energystoragera.org/data"><img src="/assets/img/ESRA_logo.svg" alt="ESRA logo" class="project-figure project-logo"></a>
   </div>
   <div class="col-md-9">
-    <!-- List of related publications -->
+    {% bibliography -f {{ site.scholar.bibliography }} -q @*[project=ESRA] %}
+  </div>
+</div>
+
+<div class="project-head">
+  <h3>Interatomic Potentials for Materials Science</h3>
+  <span class="period">2023 – 2025</span>
+</div>
+<p>Machine-learning interatomic potentials, built on equivariant graph neural networks. <a href="https://www.youtube.com/watch?v=na10M4NbdfM">Talk (video) ↗</a></p>
+<div class="row">
+  <div class="col-md-3">
+    <a href="https://github.com/MusannaGalib/AtomProNet"><img src="/assets/img/AtomProNet_logo.jpg" alt="AtomProNet logo" class="project-figure project-logo"></a>
+  </div>
+  <div class="col-md-9">
     {% bibliography -f {{ site.scholar.bibliography }} -q @*[project=MLIP] %}
   </div>
 </div>
 
-
-<!-- Dendrite Inhibition Section -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h3 style="color: #1785b6;">Better Batteries: Dendrite Inhibition</h3>
-  <span style="background-color: #6a0dad; color: white; padding: 5px 10px; border-radius: 0; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); font-weight: bold;">2021 - 2025</span>
+<div class="project-head">
+  <h3>Dendrite Inhibition</h3>
+  <span class="period">2021 – 2025</span>
 </div>
-<p>This project focuses on solving one of the biggest bottlenecks of rechargeable metal batteries: short-circuiting.</p>
-
-<!-- Image and Video Section -->
+<p>Suppressing dendrite-driven short circuits in rechargeable metal batteries. <a href="https://www.youtube.com/watch?v=4Q30xnX-hcc">Talk (video) ↗</a></p>
 <div class="row">
   <div class="col-md-3">
-    <!-- Thumbnail for the project -->
-        <img src="/assets/img/NASICON_AZIB.jpg" alt="Dendrite Inhibition" class="img-thumbnail mb-2" style="width: 100%; height: auto;">
-        <img src="/assets/img/Alucone.jpeg" alt="Dendrite Inhibition" class="img-thumbnail mb-2" style="width: 100%; height: auto;">
-    
-    <!-- Video embedded just after the image -->
-    <iframe src="https://www.youtube.com/embed/4Q30xnX-hcc?si=nMsWbI9-BakjvUfX" class="img-fluid img-thumbnail mb-2" style="width: 100%; height: auto; border: none;" allowfullscreen></iframe>
+    <img src="/assets/img/NASICON_AZIB.jpg" alt="NASICON cathode for aqueous zinc-ion batteries" class="project-figure">
+    <img src="/assets/img/Alucone.jpeg" alt="Alucone coating on zinc" class="project-figure">
   </div>
   <div class="col-md-9">
-    <!-- List of related publications -->
     {% bibliography -f {{ site.scholar.bibliography }} -q @*[project=Dendrite] %}
   </div>
 </div>
 
-
-
-
-
-    <!-- Supercapacitor Section -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h3 style="color: #1785b6;">Supercapacitor</h3>
-    <span style="background-color: #6a0dad; color: white; padding: 5px 10px; border-radius: 0; box-shadow: 2px 2px 5px rgba(0,0,0,0.2); font-weight: bold;">2019 - 2024</span>
-</div>    
-  <p>This project focuses on the development and optimization of supercapacitors, a crucial technology for energy storage systems.</p>
-  <div class="row">
-    <div class="col-md-3">
-      <!-- Thumbnail for the project -->
-      <img src="/assets/img/supercapacitor.jpeg" alt="Supercapacitor" class="img-thumbnail">
-    </div>
-    <div class="col-md-9">
-      <!-- List of related publications -->
-          {% bibliography -f {{ site.scholar.bibliography }} -q @*[project=Supercapacitor] %}
-    </div>
+<div class="project-head">
+  <h3>Supercapacitors</h3>
+  <span class="period">2019 – 2024</span>
+</div>
+<p>Electrode design for supercapacitors.</p>
+<div class="row">
+  <div class="col-md-3">
+    <img src="/assets/img/supercapacitor.jpeg" alt="Supercapacitor" class="project-figure">
   </div>
+  <div class="col-md-9">
+    {% bibliography -f {{ site.scholar.bibliography }} -q @*[project=Supercapacitor] %}
+  </div>
+</div>
 
-  <!-- Repeat for other projects -->
+<div class="project-head">
+  <h3>Other Publications</h3>
+</div>
+<p>Book chapter, thermal and energy systems, and engineering education.</p>
+{% bibliography -f {{ site.scholar.bibliography }} -q @*[project=Other] %}
+
+<p class="equal-contrib">* equal contribution</p>
+
+</div>

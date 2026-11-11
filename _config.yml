@@ -6,15 +6,14 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Musanna
 middle_name: 
 last_name: Galib
-email: galibubc@student.ubc.ca
+email: musannagalib@rocketmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
-   <a href="https://musannagalib.github.io/">All rights reserved</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+  Musanna Galib, Postdoctoral Appointee at Argonne National Laboratory (Energy Storage Research Alliance). Research on energy storage materials, scientific machine learning, and FAIR data infrastructure.
+footer_text:
+keywords: Musanna Galib, energy storage, batteries, dendrite suppression, thin films, machine learning interatomic potentials, FAIR data, Argonne National Laboratory, mechanical engineering
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: favicon.jpg    # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.png    # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://musannagalib.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /research/
@@ -46,7 +45,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -57,9 +56,9 @@ max_width: 800px
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+og_image: https://musannagalib.github.io/assets/img/Musanna_Galib_Headshot_wide.jpg # social-preview image (16:9)
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -101,7 +100,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
-contact_note: Please feel free to email me with any productive ideas.
+contact_note:
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -164,7 +163,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /news/:path/
   projects:
     output: true
@@ -173,7 +172,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 6 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
@@ -211,7 +210,6 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-archives
   - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
@@ -271,7 +269,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
   last_name: [Galib]
-  first_name: [Musanna]
+  first_name: [Musanna, M.]
 
   style: apa
   locale: en
@@ -297,8 +295,8 @@ scholar:
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
-  altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
-  dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
+  altmetric: false # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
+  dimensions: false # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
@@ -308,7 +306,7 @@ max_author_limit: 3  # leave blank to always show all authors
 more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
-enable_publication_thumbnails: true
+enable_publication_thumbnails: false
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
@@ -360,7 +358,7 @@ enable_cronitor_analytics: false  # enables cronitor RUM analytics
 enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arrangement
-enable_math:                true   # enables math typesetting (uses MathJax)
+enable_math:                false   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
 enable_darkmode:            true   # enables switching between light/dark modes
@@ -369,7 +367,7 @@ enable_navbar_social:       false  # enables displaying social links in the
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
-enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
+enable_progressbar:         false   # enables a horizontal progress bar linked to the vertical scroll position
 
 # -----------------------------------------------------------------------------
 # Library versions

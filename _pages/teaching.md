@@ -2,12 +2,11 @@
 layout: page
 permalink: /gallery/
 title: gallery
-description: Memories to make!
+description:
 nav: true
 nav_order: 5
 ---
 
-Memories to share throughout my academic life
 
 
 <div class="row mt-3">

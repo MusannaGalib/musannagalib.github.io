@@ -167,7 +167,9 @@ blockquote {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-size: 0.8rem;
+    font-style: italic;
+    color: var(--global-text-color-light);
 
     p {
       display: inline-block;
@@ -772,8 +774,8 @@ footer.sticky-bottom {
         }
 
         >em {
-          border-bottom: 1px solid;
           font-style: normal;
+          font-weight: 700;
         }
 
         >span.more-authors {
@@ -1122,4 +1124,42 @@ nav[data-toggle="toc"] {
     margin-bottom: 0;
     padding-top: 0.5rem;
   }
+}
+
+// ---- Refresh 2026: typography, research page, CV table ----
+
+.publications {
+  .project-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    margin-top: 2.5rem;
+    h3 { margin: 0; }
+  }
+  .period {
+    color: var(--global-text-color-light);
+    font-size: 0.85rem;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+  }
+  .software-line { line-height: 1.9; }
+  .project-figure { width: 100%; height: auto; margin-bottom: 0.75rem; border-radius: 2px; }
+}
+
+// CV "General Information" table was dark-on-dark in dark mode
+table.table-cv, table.table-cv td, table.table-cv th { color: var(--global-text-color); }
+.publications .project-logo { background: #fff; padding: 0.75rem; }
+
+.publications .title-link { color: inherit; }
+.publications .title-link:hover { color: var(--global-theme-color); }
+.publications .equal-contrib { color: var(--global-text-color-light); font-size: 0.8rem; margin-top: 1.5rem; }
+
+.publications .stack {
+  color: var(--global-text-color-light);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin-top: -0.4rem;
 }

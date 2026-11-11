@@ -1,4 +1,5 @@
 ---
+published: false
 layout: distill
 title: Equivariant Graph Neural Network
 description: Engineering Chemo-Mechanical Properties of Zn Surfaces via Alucone Coating
@@ -6,7 +7,6 @@ tags: DFT
 giscus_comments: false
 date: 2023-01-01
 featured: true
-published: true
 img: assets/img/Alucone.jpeg
 
 

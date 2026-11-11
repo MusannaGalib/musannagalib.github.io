@@ -3,142 +3,187 @@
   contents:
     - name: Full Name
       value: Musanna Galib
-    - name: Date of Birth
-      value: 8 June 1993
+    - name: Current Position
+      value: Postdoctoral Appointee, Energy Storage Research Alliance, Argonne National Laboratory
     - name: Languages
       value: English, Bengali
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. Candidate, Mechanical Engineering
+    - title: Ph.D., Mechanical Engineering
       institution: University of British Columbia, Vancouver, Canada
-      year:  2020 - 2025 
+      year:  2020 - 2025
       description:
-        -  Dissertation title - Dendrite Inhibition Strategy using Hetero-epitaxy in Thin Film Deposition Mechanics.
+        - 4-Year Doctoral Fellow
+        - Dissertation - Dendrite Inhibition Strategy using Hetero-epitaxy in Thin Film Deposition Mechanics.
     - title:  <a href="https://drive.google.com/file/d/1HtTnwLoAKUD3hzeQpaDHO9bYU2LawKok/view">M.Sc. in Mechanical Engineering</a>
       institution: Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
       year: 2017 – 2019
       description:
-        - Dissertation title - <a href="https://musannagalib.github.io/news/announcement_2/">Study of electro-mechanical properties of manganese-based nanocomposites for supercapacitors</a>
-
+        - Dissertation - Study of electro-mechanical properties of manganese-based nanocomposites for supercapacitors
     - title:  <a href="https://drive.google.com/file/d/0BwEhIIpF8G4uRjZaUk15T2dWZkU/view?resourcekey=0-WiK15hxtTWEzQJCe1hGFiw">B.Sc. in Mechanical Engineering</a>
       institution: Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
       year: 2012 - 2017
       description:
-         - Dissertation title - <a href="https://musannagalib.github.io/news/announcement_1/">Computer Modeling of Fire Smoke Movement in Multizone Structure Using Two Open Source Platforms</a>
-
-
+         - Dissertation - Computer Modeling of Fire Smoke Movement in Multizone Structure Using Two Open Source Platforms
 
 - title: Experience
   type: time_table
   contents:
-    - title: 4-Year Doctoral Fellow & Graduate Research Assistant
-      institution: University of British Columbia, Vancouver, Canada
-      year: 2020 - 2025
+    - title: Postdoctoral Appointee
+      institution: Energy Storage Research Alliance, Argonne National Laboratory, USA
+      year: 2026 - present
       description:
-        - Research on rechargeable batteries and thin films
-    - title: <a href="https://musannagalib.github.io/teaching/2_project/">Graduate Teaching Assistant</a>  
+        - ESRA FAIR data platform for energy storage materials, including its ingestion pipeline, metadata schema, and scientific workflows
+    - title: Graduate Research Assistant
+      institution: University of British Columbia, Vancouver, Canada
+      year: 2021 - 2025
+      description:
+        - Battery research (multiscale modeling, battery recycling, battery testing) and machine-learning interatomic potential development
+    - title: <a href="https://musannagalib.github.io/teaching/2_project/">Graduate Teaching Assistant</a>
       institution: University of British Columbia, Vancouver, Canada
       year: 2022 - 2025
       description:
-        - Dept. of Mechanical Engineering, UBC
-        - Dept. of Physics, UBC    
-    - title: <a href="https://musannagalib.github.io/teaching/3_project/">Assistant Professor (Teaching)</a> 
+        - Six courses in the Dept. of Mechanical Engineering, Applied Science, and the Dept. of Physics
+    - title: <a href="https://musannagalib.github.io/teaching/3_project/">Assistant Professor (Teaching)</a>
       institution: Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
-      year: 2019- 2021
+      year: 2019 - 2021
       description:
-        - Teaching multiple undergrad theory and laboratory courses.
-    - title: <a href="https://musannagalib.github.io/teaching/1_project/">Lecturer</a> 
+        - Taught undergraduate theory and laboratory courses (ten course sections)
+    - title: <a href="https://musannagalib.github.io/teaching/1_project/">Lecturer</a>
       institution: Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
-      year: 2017- 2019  
+      year: 2017 - 2019
       description:
-        - Teaching multiple undergrad theory and laboratory courses.
-        - Worked as a staff member of The 13th and 12th International Conference on Mechanical Engineering (ICME 2019, ICME 2017).
-
-
-
+        - Taught undergraduate theory and laboratory courses (thirteen course sections)
+        - Staff member of the 12th and 13th International Conference on Mechanical Engineering (ICME 2017, ICME 2019)
 
 - title: Grants and Fundings
   type: time_table
   contents:
     - title: <a href="https://alliancecan.ca/en/funding-opportunities/dri-edia-champions-pilot-program">DRI EDIA Champions</a> (Amount 35,000 CAD)
-      institution: Digital Research Alliance of Canada 
-      year: 2024- 2025
+      institution: Digital Research Alliance of Canada
+      year: 2024 - 2025
       description:
         - 3.15 million funding opportunity (90 Grants) for graduate or post-graduate researchers in Canada
-        - Project Title- <a href="https://zenodo.org/records/14676658"> Bridging Quantum Mechanics and Machine Learning - Developing an Open-source Software for Efficient Data Processing for Advanced Research Inclusivity</a> 
-    - title: <a href="https://www.grad.ubc.ca/campus-community/meet-our-students/galib-musanna">4 Year Doctoral Fellowship</a> (Amount 93,267 CAD) 
+        - Project Title - <a href="https://zenodo.org/records/14676658"> Bridging Quantum Mechanics and Machine Learning - Developing an Open-source Software for Efficient Data Processing for Advanced Research Inclusivity</a>
+    - title: <a href="https://www.grad.ubc.ca/campus-community/meet-our-students/galib-musanna">4 Year Doctoral Fellowship</a> (Amount 93,267 CAD)
       institution: University of British Columbia, Vancouver, Canada
-      year: 2020- 2024  
+      year: 2020 - 2024
       description:
         - This program allows UBC to continue to attract and support outstanding domestic and international doctoral students for their doctoral studies and research.
-
-
-
-
 
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Institute of Applied Mathematics (IAM) travel grant
     - year: 2024
-      items: 
-        -  <a href="https://icics.ubc.ca/research-to-innovation/ideas-with-impact/">1st prize in “Ideas With Impact” Competition </a> by The Institute for Computing, Information and Cognitive Systems (ICICS)
+      items:
+        - <a href="https://icics.ubc.ca/research-to-innovation/ideas-with-impact/">1st prize in “Ideas With Impact” Competition </a> by The Institute for Computing, Information and Cognitive Systems (ICICS)
         - CSME Congress “Best Presentation Award” in Computational Mechanics at the University of Toronto
     - year: 2023
-      items: 
-        - Collaborative Research Mobility Award (UBC CRMA) in UBC
-        - Conference Travel Award from the Institute for Computing, Information and Cognitive Systems (ICICS)
+      items:
+        - Collaborative Research Mobility Award (UBC CRMA)
+        - Conference Travel Support for ICICS Graduate Students (SES-2023)
     - year: 2021
-      items: 
-        - Faculty of Applied Science Graduate Award in UBC
-    - year: 2021-2024
-      items: 
-        - President’s Academic Excellence Initiative Ph.D. Award (PAEIPA) in UBC
-        - 4-Year Doctoral Fellowship in UBC
+      items:
+        - Faculty of Applied Science Graduate Award, UBC
+        - Bangladesh-Sweden Trust Fund (BSTF) Travel Grant for Ph.D.
+    - year: 2020-2025
+      items:
+        - President’s Academic Excellence Initiative Ph.D. Award, UBC
+        - 4-Year Doctoral Fellowship, UBC
+        - International Tuition Award, UBC
     - year: 2013-2017
-      items: 
+      items:
         - Dean’s List for 4 consecutive years in BUET
-        - University Merit for 4 consecutive years in BUET.
+        - University Merit for 4 consecutive years in BUET
     - year: 2011
-      items: 
+      items:
         - Board Scholarship in HSC 2011
     - year: 2009
-      items: 
-        - Board Scholarship in SSC 2009 (37th position in Bangladesh).  
-        
+      items:
+        - Board Scholarship in SSC 2009 (37th among 900k students in Bangladesh)
+
+- title: Software and Platforms
+  type: list
+  contents:
+    - <a href="https://data.energystoragera.org/data">ESRA Data Platform</a> - FAIR data platform for energy storage materials at Argonne National Laboratory
+    - <a href="https://github.com/MusannaGalib/AtomProNet">AtomProNet</a> - atomic data processing for neural networks
+    - <a href="https://github.com/MusannaGalib/SurfTrack">SurfTrack</a> - dendrite tracking from in-situ optical microscopy
+    - <a href="https://github.com/MusannaGalib/MOOSEanalyze">MOOSEanalyze</a> - post-processing software for MOOSE Exodus files
+
+- title: Contributed Talks
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Dendrite Inhibition Strategy using Hetero-epitaxial Residual Stresses in Thin Film Deposition Mechanics, 16th World Congress on Computational Mechanics, Vancouver, BC
+        - Multiscale Approach to Study High Strain Rate Deformation, Canadian Society for Mechanical Engineering Congress, Toronto, ON
+    - year: 2023
+      items:
+        - Dendrite Inhibition Strategy using Hetero-epitaxial Residual Stresses in Thin Film Deposition Mechanics, Society of Engineering Science Annual Technical Meeting, Minneapolis, MN
+        - Using Thin Film to Improve Metal Anode Battery Safety, Top presenter, Open Heat 3 Minute Thesis (3MT), UBC
+    - year: 2022
+      items:
+        - Residual Stresses in Thin Film Deposition Mechanics, Society of Engineering Science Annual Technical Meeting, College Station, TX
+
+- title: Professional Service and Training
+  type: nested_list
+  contents:
+    - title: Service
+      items:
+        - Reviewer for Additive Manufacturing, Journal of Energy Storage, and Journal of Applied Physics
+        - Member, Battery Division, The Electrochemical Society (ECS), 2024-2025
+        - Member, Canadian Society for Mechanical Engineering (CSME), 2024-2025
+    - title: Teaching and training
+      items:
+        - CIRTL Associate, Center for the Integration of Research, Teaching and Learning (October 2024)
+        - Instructional Skills Workshop, Centre for Teaching, Learning, and Technology, UBC (October 2024)
+        - NASA Open Science 101, NASA Science Mission Directorate (March 2025)
+        - Project Management, Mitacs Inc., Canada (November 2023)
+
 - title: Technical Skills
   type: nested_list
   contents:
-    - title: Simulation
-      items: 
-        - Programming Languages - C, HTML, CSS, MATLAB, Bash.
+    - title: Software and AI engineering
+      items:
+        - Platform engineering - backend, frontend, DevOps.
+        - AI agents - MCP servers, scientific analysis agents with audited, traceable results.
+        - Research data - FAIR data catalogs, metadata schemas, ingestion pipelines.
+    - title: Computation
+      items:
+        - Programming Languages - Python, MATLAB, Bash, C, HTML, CSS.
+        - Deep Learning Packages - PyTorch.
         - Material Simulation Tools - VASP, LAMMPS.
         - FEM Modeling Tools - ABAQUS, MOOSE.
-        - Visualization Tool - Vesta, OriginPro, OVITO, Paraview, Atomsk.
-        - High-performance Computing (HPC) - Compute Canada, Sockeye Server.
-        - Drawing & Design Tools - Solidworks.
-        - Documentation & Presentation Application - Office Suite, LaTeX.
+        - Visualization and Design Tools - Vesta, OriginPro, OVITO, Paraview, Atomsk, Solidworks.
+        - High-performance Computing (HPC) - Alliance, ARC Server.
+        - Documentation and Presentation - Office Suite, LaTeX.
         - Operating System - Windows (WSL), Linux (Ubuntu)
     - title: Experiment
       items:
         - Battery Testing - Battery cell assembly, Cyclic testing, In-situ optical microscopy.
         - Clean-room Testing - DEKTAK profilometer.
-        
+
 - title: Extra-curricular activities
   type: time_table
   contents:
     - title: Steward, UBC Teaching Assistants' & Instructors Union (CUPE 2278).
       year: 2024-2025
+    - title: Vice President (External), Bangladeshi Grad Alliance (BGA) at UBC.
+      year: 2024-2025
     - title: Vice President (Academic), Mechanical Engineering Graduate Association, UBC.
-      year: 2022 
+      year: 2022-2023
       description: Arranging academic events for mechanical engineering graduate students.
     - title: <a href="https://deabd.org/">Award Leader, The Duke of Edinburgh’s Award Foundation Bangladesh.</a>
       year: 2017-2021
       description: Managing and operating the program at BUET.
     - title: <a href="https://www.dukeofed.org/">Gold Awardee of The Duke of Edinburgh Award</a>
       year: 2017
-      
+
 - title: Other Interests
   type: list
   contents:
